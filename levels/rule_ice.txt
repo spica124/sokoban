@@ -1,0 +1,406 @@
+; name: 미끄러운 길
+; name_en: Slippery Path
+; rules: ice
+; ice: 4,1;5,1;6,1
+; par: 6
+; solution: RRRRRR
+##########
+#@ $    .#
+##########
+
+; rules: ice
+; ice: 1,5;1,6;2,6;3,5;3,6
+; par: 24
+; solution: DRDDLLLRRRUULLDLDRULLRRR
+##########
+#  #######
+# ########
+# #####@##
+#  ### $ #
+# .  $$ .#
+#   . $. #
+##########
+
+; rules: ice
+; ice: 3,4
+; par: 33
+; solution: DRRRULUURDDLDLLURDRURUULLDURRDDLU
+#########
+#  . ####
+##$  ####
+#@.$$## #
+# $ ..  #
+#########
+
+; rules: ice
+; ice: 2,6;3,6
+; par: 40
+; solution: RDRDDLLDDRRRRURDLLLLLUURDLDRUURUULULDDDD
+#########
+#@ ######
+#$$ #####
+# . #####
+#   #####
+# $## $.#
+#.  .  ##
+#########
+
+; rules: ice
+; ice: 1,1;1,2;1,3;1,4;2,1
+; par: 54
+; solution: ULLDDDDDDRULUUUUURRDLULDDDRUDLDDUUURULURDDDLDDRDDLURUU
+#######
+#  .  #
+# $@###
+# $####
+# .####
+#  ####
+#.$####
+# $.###
+#  ####
+#######
+
+; rules: ice
+; ice: 7,5;8,4;8,5
+; par: 43
+; solution: RRURDRRRRUULDRDLLLRRUURUULDLLURDRDRDDLUURUL
+##########
+######## #
+######## #
+####  $. #
+##### .$ #
+#######  #
+### $.#$ #
+#@  .    #
+##########
+
+; rules: ice
+; ice: 2,2;3,2;3,3;4,2
+; par: 19
+; solution: LLURURRRLLLDDRRURUL
+########
+##### ##
+##     #
+# .  $.#
+# $.$$.#
+#  @   #
+########
+
+; rules: ice
+; ice: 5,8;6,6;6,7;6,8;7,8;8,8
+; par: 52
+; solution: DLLURDRRRRRRUUULUUDDRDDDLLURDLLLURDLLLURDRRRRRUDLLUR
+##########
+####### ##
+###### .##
+####     #
+###### $ #
+#######  #
+### ## #.#
+# $@.$ $.#
+#        #
+##########
+
+; rules: ice
+; ice: 3,1
+; par: 34
+; solution: RRRRDDRRUULLRDULLLDDLLULURDDRRURLL
+##########
+# @ .  $ #
+# .$ $.$ #
+##   # . #
+##########
+
+; rules: ice
+; ice: 3,1;4,1;4,2;5,2
+; par: 53
+; solution: LULLDLLUUUURDLDDDRRULDLURRRRDLULLLUUDDRRRDLULLUURDLDR
+########
+#.$  .##
+# $#  ##
+#  #####
+#  .$ ##
+# .  $@#
+########
+
+; rules: ice
+; ice: 3,6;4,6
+; par: 56
+; solution: LLDLDLLUUUUUUURDLDDDDDDRRULDLUUURDULUDDDDRRURULLRDDLLURR
+########
+#  #####
+# $#####
+#..#####
+# ######
+#  #####
+#.$  $@#
+#  $.###
+#   ####
+########
+
+; rules: ice
+; ice: 1,4;1,5;1,6;1,7;2,6
+; par: 62
+; solution: LLDLLUURDUULUURDULUURDLDDDDDRRRRDLULLULUURDULUURDLDDDDRUULUURD
+#######
+#  ####
+# $####
+#  ####
+# $ ###
+# . ###
+#  ####
+#  .$@#
+# ..$ #
+#######
+
+; rules: ice
+; ice: 3,4;4,2;4,3;4,4;4,5
+; par: 39
+; solution: LLULRDRRULLRRUULDRDDLLURDLLLULLRRDRUDLL
+##########
+# ########
+# ##  #  #
+#  # .#$ #
+#.   $ $.#
+# .    $@#
+##########
+
+; rules: ice
+; ice: 1,8;2,6;2,7;2,8;3,6;3,8;4,8
+; par: 47
+; solution: LLDDDLDDRUUUUURUULLLDDDRLUUURRRDDLLRDULUDDLURUR
+#######
+# .  ##
+#.$ .##
+#   $@#
+# $ ###
+###. ##
+##  ###
+## $###
+#    ##
+#######
+
+; rules: ice
+; ice: 7,3;8,2;8,3;8,4
+; par: 96
+; solution: URRDRRDDDDLLLLLLUULUUURDLDDDDRRRULLULUUURRRRRDRRUULDLDDRLUURRDLULLLLLDLDDRDDRRRRRURUUDDDLLLLLLLU
+##########
+####.## .#
+# $ $    #
+#  #@#.  #
+# #### $ #
+#. ### # #
+#  $ ##  #
+#        #
+##########
+
+; rules: ice
+; ice: 4,4;5,4;6,4;7,4;8,2;8,3;8,4
+; par: 30
+; solution: LLLDDLLURDRRUUDDRURDRULLUDDLLU
+##########
+#####..#.#
+####.  @ #
+#  $ $$$ #
+#        #
+##########
+
+; rules: ice
+; ice: 5,4;6,4;7,2;7,3;7,4;7,5
+; par: 28
+; solution: DRURUUURRRUULLLRRDRDDLRULLLL
+##########
+#       ##
+#  . $  ##
+######$  #
+##.     ##
+##   .$ ##
+## . #####
+##@$ #####
+#    #####
+##########
+
+; rules: ice
+; ice: 7,1;7,2;8,1;8,2
+; par: 42
+; solution: DRRRRULDRRRRUULLLLLRDDRRUDRRULLDLLUURRRURD
+##########
+## ####  #
+##.   $  #
+#@ .$.$$.#
+#        #
+##########
+
+; rules: ice
+; ice: 7,1;7,2;8,1
+; par: 57
+; solution: URRRRDRDLUULLLDDRUDDRDRRUUUULLLLLRRRRDDLRUULLDDRRRDLULLUR
+##########
+# .      #
+###@ $$ .#
+####   $ #
+#####..$ #
+######   #
+##########
+
+; rules: ice
+; ice: 4,3
+; par: 43
+; solution: DLDRDLDDRDDLUDLLURRUDDRULUUURUULDDDLLURRDDD
+######
+####@#
+### $#
+###$ #
+#   .#
+#   .#
+### .#
+# $$ #
+#  . #
+######
+
+; rules: ice
+; ice: 4,1;5,1;5,2
+; par: 47
+; solution: URUULUULURRRRLDLLDDRDDLUUULUURRDLDLLDDRURRDDLUU
+#########
+#      .#
+# .$  ###
+# ..#####
+# $  ####
+# $  ####
+# #$ ####
+###@#####
+#########
+
+; rules: ice
+; ice: 6,6;6,7;6,8;7,7
+; par: 27
+; solution: UURULLURRRRDDLLRRDDDUUUULLL
+#########
+#       #
+# ..  $$#
+### . $ #
+####$## #
+####@#  #
+######  #
+######  #
+#####  .#
+#########
+
+; rules: ice
+; ice: 5,6;5,7;6,7
+; par: 47
+; solution: ULLRRUUULURDDLLDLLURDRDRRUUURUDDDDLLLURLLURRDRU
+########
+#####  #
+##### .#
+####   #
+#### . #
+# $  $ #
+#   $ .#
+##.$   #
+##   @##
+########
+
+; rules: ice
+; ice: 6,3;6,4;6,5;7,4
+; par: 81
+; solution: LLLDDDRDDLUULUUUUURDLDRRLDLDDRUULUURRRRDDRRRDULDULUULLLDRULLLDRURRRDLDRUULLLDRURD
+##########
+#  #######
+# $     ##
+#    @ ###
+#  #.   .#
+#  ### $$#
+#   ###..#
+# $ ###  #
+##  ######
+##########
+
+; rules: ice
+; ice: 6,4;6,5;7,4
+; par: 57
+; solution: LUURRDRRRDDDDDRDLUUUUUULLLULLDRRRRURDLLLURDRRDDDDUUUULLUR
+##########
+# $   . ##
+# $ $  .##
+# @###$###
+# ####  ##
+######  ##
+#####  ###
+######. ##
+#####.   #
+##########
+
+; rules: ice
+; ice: 6,7;6,8;7,8;8,7;8,8
+; par: 48
+; solution: LUURDDLDRURRDRRULLLLULDRDRRURRDRRULUUUULDRDDDLLL
+##########
+# ########
+# ########
+#  ##    #
+# ####$ ##
+#  ###.  #
+# $#### ##
+# @. $ $ #
+#.   .   #
+##########
+
+; rules: ice
+; ice: 1,2;1,3;2,3
+; par: 63
+; solution: ULUUULUURDLDDLDRURRULUURRDLDDLLDDRRUULULULDUURRDLDDRRUDLDULUURD
+#######
+#     #
+#  $. #
+#   $##
+#. . ##
+# $  ##
+## .$ #
+####@##
+#######
+
+; rules: ice
+; ice: 3,3;3,4;4,3
+; par: 73
+; solution: LUUULDURUULDDRDDDDLLULLUUUURRRDLDRURDULULLLDDDDDRRRRULLDLLUUUUURRDDRDDRDL
+########
+# ##  ##
+#  $$.##
+# #   ##
+# # $ ##
+# ## .##
+# .  $@#
+#  .  ##
+########
+
+; rules: ice
+; ice: 6,5;7,4;7,5
+; par: 72
+; solution: RDRRURRDULLDLLURDRRURRDDDLURUULDLLLURDRRURUULDDRDLLLURLLLDRURRDRRUULDRDL
+#########
+######  #
+######$ #
+#@$     #
+## $..$ #
+######  #
+#####.. #
+#####   #
+####### #
+#########
+
+; rules: ice
+; ice: 1,4;1,5;2,5
+; par: 139
+; solution: LUULULLLLLDDDDRLUUUURRRRDDRRDDLURUULULLLLLDDDDRRRRLLLLUURDLDRUULUURDURRRDRRDDLULUULLDLDLDDRRLLUUUURRRRDDRRULDDDUUUULLLDLDLDDRRRRLLLLUURDLDR
+##########
+#  #######
+# # ######
+#      ###
+# $ #.  ##
+#  ##   ##
+# $### $@#
+# $.  . ##
+#  ## . ##
+##########

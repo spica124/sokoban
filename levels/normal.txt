@@ -1,0 +1,2582 @@
+; source: boxoban/hard_000
+; par: 30
+; solution: RRDDDDLDRUUUUURRDDRRUULDRDLULL
+##########
+##@$  .  #
+### .$ $ #
+### $#.  #
+####  ####
+###   ####
+#    . ###
+#   ######
+##########
+
+; source: boxoban/medium_train_001
+; par: 66
+; solution: DDRLLDDRRUDLUDRRRRRRUULDRDLLLLLULLDRRULLUURDLDDRRRRRRLLLLLLUUURRDD
+##########
+##@#######
+# $ ######
+#  $.##  #
+# .$###$ #
+#  .    .#
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 35
+; solution: LLUUULLLUURDRDDLDURUULDRDDLDURUULDD
+########
+#   ####
+# $$.###
+#    ###
+## $ ###
+# $  ###
+# ..  @#
+# .   ##
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 36
+; solution: DRRRDRRRRULDLLUURDLDRULLLURRDLLLLDRR
+##########
+# ## .####
+#@# $ .###
+# $    $ #
+# $ .  . #
+##########
+
+; source: boxoban/hard_000
+; par: 40
+; solution: LLLLLDRDLUURRRDLULLDDRULURDRRURRDLLLLULD
+##########
+#.  . $@ #
+# $$  $ ##
+#.. ######
+#  #######
+# ########
+# ########
+#  #######
+#  #######
+##########
+
+; source: boxoban/medium_train_001
+; par: 58
+; solution: DRRRRUUDDLLLLLDRURRRRUULURDDDLUURULDDDLDDDLLURRUULDRDDLLUR
+##########
+#        #
+#   .  .##
+# ### $###
+##@##$ ###
+# $    ###
+# .  # ###
+##$ .#####
+##   #####
+##########
+
+; source: boxoban/hard_000
+; par: 46
+; solution: DRDDLDDRRDULLDDRRRLUULLUURUULDDDDDURUUDDRDDLUU
+#######
+#@#####
+#$ ####
+# .####
+# $####
+# .####
+#   ###
+# $$###
+#.   .#
+#######
+
+; source: boxoban/hard_000
+; par: 76
+; solution: ULULLLDDDDRRRULDLLUUUURRDRRRULDLLUURLDLLURDRDRRUUDDLLULURRLDLLDDDDRRULDLUUUU
+########
+## ##.##
+#.$ $. #
+#   .  #
+# #  $ #
+# ###@##
+#  $ ###
+#     ##
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 46
+; solution: DDLLLUUURRLDLDDRULUURRDDURRUULDDURRRRDLULLDDRU
+##########
+# ##   ###
+#  $  .  #
+# .$@  $ #
+# $ .  ###
+#  .  ####
+# ########
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 41
+; solution: URUDDDDDLDLLLLLRRRRURURUUULLUURDLDRURDDDD
+##########
+######  .#
+######  $#
+###### $ #
+#######@$#
+######## #
+#######  #
+#### #  .#
+#.    $ .#
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 33
+; solution: UUULUURRUDLLDDDUUUURRRULDDRRRURUL
+##########
+#  .  .  #
+#   $  $ #
+#        #
+#  .   ###
+##  ######
+##$ ######
+##.$ #####
+###@######
+##########
+
+; source: boxoban/hard_000
+; par: 58
+; solution: DRDDRRRDLULLLDDDDRRURRDLLLLUUUURUULDDDDDURUURRDLULLUURDLDR
+##########
+#@########
+#$ #######
+#  ## ####
+# $.  ####
+# . $ ####
+#  #######
+# # $ . ##
+#.       #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 40
+; solution: UUURULLLDRURRDDDLLUUDRRUULDDULLURDRRURUL
+########
+####.  #
+##  .$ #
+## $  ##
+###$  ##
+### .$ #
+#   @. #
+########
+
+; source: boxoban/medium_train_000
+; par: 66
+; solution: RRDDDDDDLUDRDLUURUUUUULLDRURDDDDDUULURUULLDRURDLDDRDDLDDRULUUUUURD
+#####
+#@. #
+# $ #
+##$ #
+## .#
+##  #
+##$.#
+##  #
+#.$ #
+#####
+
+; source: boxoban/unfiltered_train_000
+; par: 35
+; solution: LLDLLUUDDRRULDLULRRUULULRDLLRUULLDD
+##########
+#    #####
+# .$ #####
+#     ####
+#. #. ####
+# .$$  $@#
+## #   ###
+##########
+
+; source: boxoban/hard_000
+; par: 61
+; solution: DDLLLURDLLDLURRRRRUULDRDLULLDLLURRRRLLDLDLDDDDRULUUUUURRRRDLL
+##########
+#. ## @###
+# $ $ .###
+# .  $ ###
+#  #######
+# #####  #
+# .####  #
+# $# ##  #
+#        #
+##########
+
+; source: boxoban/medium_train_001
+; par: 50
+; solution: ULLDRRDRUDDDLULUDRDRDDLUURUUULULLDRDDRLUURDRDULLDR
+######
+#   .#
+# $@.#
+##$$ #
+##  .#
+### .#
+###$ #
+###  #
+######
+
+; source: boxoban/medium_train_000
+; par: 50
+; solution: LLLRDDLLLLLUUURRRDDURRDDLLLRRRURULLDULULLLUURDLDRR
+##########
+# ########
+#  #######
+# $#######
+#   .#####
+#  #   $@#
+# ## $ $.#
+# .  . # #
+##########
+
+; source: boxoban/medium_train_000
+; par: 37
+; solution: LLULLDDDDDUURRUUDDLLURDLDDRDDLUUUURRU
+##########
+#  . #####
+#$..$@####
+#.$$ #####
+#   ######
+# ########
+#  #######
+#  ####  #
+#        #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 38
+; solution: URRDLURRRDLLLDLDRURRDRRUDLLUUULLLDRDRD
+##########
+#     ####
+#@$  $. ##
+#.$  .$  #
+#        #
+# #.   ###
+# ##  ####
+##########
+
+; source: boxoban/medium_train_000
+; par: 85
+; solution: RRRDDDLLLLLLUUURRRRRLLLLLDDDRRRRRRUURUULDLLLLLLDDDRRRRRRRUUULLLDDUULLLLDDDRRRRUUULLDL
+##########
+####### .#
+# $ @    #
+#.$ # #. #
+# ###$# $#
+#     .  #
+##########
+
+; source: boxoban/medium_train_001
+; par: 60
+; solution: DRDDDDLLLUUUURDDLDDRRRUUULLRRURRDLLDDRUULURDDDDLLLLUURUURLLD
+##########
+###@## ###
+# $$. .###
+#  . $  ##
+#. # $####
+# ##  ####
+#        #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 75
+; solution: URRDRDDDDLDDRUUUUDDLLLDRURRUURUUULLLLDRURRDRDDLLDRDDDLLUURUURRUULDUULLDRURD
+#######
+#     #
+#@$   #
+####. #
+##  . #
+###$ ##
+#   .##
+# $.$ #
+#    ##
+#######
+
+; source: boxoban/medium_train_000
+; par: 73
+; solution: LUURURUDLDLDDRRUUDDLLDDRULUUURRDDLDLURRUULULUURDLDDRRDDLLUUUURRDULLDDRURD
+######
+#. .##
+# .$##
+# $ ##
+#  $ #
+# #.##
+# @  #
+# $###
+#  ###
+######
+
+; source: boxoban/unfiltered_train_001
+; par: 51
+; solution: DLLUDRRRUULUURRDRDLDLDLLLLUUDDRRRURRUULLDDRUDDLLLUU
+##########
+#####    #
+# ... .  #
+#      $ #
+# $$#@$ ##
+#      ###
+##########
+
+; source: boxoban/hard_000
+; par: 52
+; solution: RRRUUUULDRRRULUURDLDDLLUURLDDRRURDLLLURURLDDRRUULLDR
+##########
+#### # .##
+###    $ #
+###.$ $..#
+####     #
+##### ####
+# ## $ ###
+# @    ###
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 37
+; solution: LLDLLLUURDLDRRLUULUURDRDLDDRULUUULLDD
+##########
+#    #####
+# $ $ ####
+#  . .####
+# . $  $@#
+#     .###
+##########
+
+; source: boxoban/medium_train_000
+; par: 65
+; solution: URRDLULLDDDLLDDRUDRRULLLRRUUUURRDLULDDDRDLDLLUURLDDRRUUUUDDLLDRLL
+##########
+######.###
+#####.$  #
+#### $@$ #
+##### ####
+###    ###
+#.  $. ###
+#      ###
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 35
+; solution: DRDDRUDLLURUULLLDDRRUUDDLUDDRRUULUL
+########
+#  .   #
+#. @.  #
+# $  . #
+# $$ $ #
+##     #
+########
+
+; source: boxoban/hard_000
+; par: 56
+; solution: DRUURUULLULLLDRULLLDRURRDRURDRRULLDRRDDLURUULLDLLULLDRRR
+##########
+#    . $ #
+# $ $ .. #
+##  ##.  #
+#######  #
+######@$##
+######   #
+##########
+
+; source: boxoban/hard_000
+; par: 56
+; solution: UURUDLUUUDDDDDRUULUUURRDLULDDDRDDLURUULUURRDLUUULDRDDDDR
+######
+#  ###
+#  ###
+#.  ##
+#.  ##
+# $###
+#.$ .#
+#$$###
+#@   #
+######
+
+; source: boxoban/medium_train_001
+; par: 44
+; solution: LULLDDRLUURRDDLLDDRDDLUUUURDULUDDRDUURUULDDD
+######
+#.  ##
+#  $@#
+# $ ##
+# $.##
+# . ##
+#$.###
+#  ###
+# ####
+######
+
+; source: boxoban/hard_000
+; par: 46
+; solution: UUURRRRDRRDRDDLURUUUUULDDRDLLLULLDRULLLDRURRRR
+##########
+######## #
+#######  #
+### ###$ #
+# $    . #
+# $. .   #
+# #####. #
+#@#####$ #
+#######  #
+##########
+
+; source: boxoban/hard_000
+; par: 53
+; solution: RRUURLDDRRRUUULRDDDLLLUURRURDDULLLULLDRRRRULLLDRDDLLU
+##########
+## #######
+#.   $ ###
+#.$ $ .###
+#$# ##  ##
+#@    .  #
+##########
+
+; source: boxoban/hard_000
+; par: 44
+; solution: RDULDRDDDDLRUULDDULDDURDUUURUULDDRDDLLURDRUU
+#####
+##@ #
+##$$#
+## .#
+##  #
+# $ #
+# $ #
+#  .#
+#.. #
+#####
+
+; source: boxoban/medium_train_000
+; par: 45
+; solution: ULDDRDDLLLUUURLDDDRRRUULDLRURUULDLLURDLDDRRDD
+#######
+# $.  #
+# $$@##
+# #. ##
+# $  ##
+#.   ##
+#    ##
+## .###
+#######
+
+; source: boxoban/medium_train_000
+; par: 50
+; solution: UUDDLURUURUULDDDDLDRUUUUULLDDRLUURRDLDDRDDLUUUURUL
+#######
+# .   #
+# .$  #
+## $. #
+###  ##
+###$$##
+### @.#
+#######
+
+; source: boxoban/hard_000
+; par: 43
+; solution: RURUURUULLDLDDRUULLLDRURRDRRULLLLRRDDDRULLU
+########
+####.  #
+#. .   #
+# $ $. #
+# #  $##
+####$ ##
+###@ ###
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 29
+; solution: DDLLLURURRULLDDLLURLUULDDDRDL
+#########
+##  #####
+# $ . $ #
+#   $. @#
+#    $. #
+#.      #
+#########
+
+; source: boxoban/unfiltered_train_001
+; par: 32
+; solution: LUDDDRRULURDDDDLLURLUUURUULRDDLU
+########
+#    ###
+##..  ##
+###$ ###
+### @ .#
+##   $ #
+###   ##
+###$$.##
+##     #
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 46
+; solution: UURURULLLDLRURRDDLULUULLDDRRRRRRLLLLURRDLLLLUR
+##########
+#   ## ###
+#  . $.  #
+# $   $ .#
+#.##  ####
+### $#####
+### @ ####
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 32
+; solution: RUUDLLURDDLDLLDDRRUDLLUURDRDLURU
+#########
+#    .  #
+#   $. ##
+#    $ ##
+#  .@  ##
+#   #####
+# $$#####
+#.  #####
+#########
+
+; source: boxoban/hard_000
+; par: 60
+; solution: UURRRULDLLDDRULURRURDLLLURLUURDDDRRULLDLDDRULURUULDRRRDRDDLU
+########
+# ######
+#.######
+#  #####
+# $#####
+#  $ ###
+#. .. ##
+#$$#  ##
+#@ #   #
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 40
+; solution: LDDDDRDRDLUUULUUURRDLULDRDDLDRUUULDRDRDD
+######
+#  @ #
+#  $ #
+# $$##
+# .  #
+##   #
+# .  #
+# .$.#
+##  ##
+######
+
+; source: boxoban/unfiltered_train_001
+; par: 46
+; solution: ULULLLDDDDLURUURULLUURDLDRRRURRDDDDUUUULLDLDRR
+########
+##  ####
+#   ####
+# $#   #
+#    .$#
+## $  .#
+#. ## @#
+#$ ##  #
+#  ## .#
+########
+
+; source: boxoban/medium_train_000
+; par: 59
+; solution: RRRDRRURRDDDDDDLURUUUUULLDLLULLDRURRDRRURDDDDUUULLLULLDRRRR
+##########
+#@$   .  #
+## $ $  .#
+######## #
+#######  #
+#######. #
+#######$.#
+#######  #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 49
+; solution: ULLLLDLLDLDDDRDULUUUURRRURRDLLLLDLURRRURRRRDLLLLL
+##########
+#. .   $ #
+# .  $ $@#
+#  #######
+# ########
+# ########
+#  #######
+# $#######
+# .#######
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 32
+; solution: URULULULLDRRRURURRDLULLLRRRDLLLL
+##########
+# .      #
+#.  $ $ ##
+#$   #####
+#. .  ####
+# ##$ ####
+####@#####
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 21
+; solution: LDLDLDDRURULLRULRRULU
+########
+### . ##
+#   $ ##
+#  . $@#
+# . $ ##
+# .   ##
+#   $ ##
+###   ##
+####  ##
+########
+
+; source: boxoban/hard_000
+; par: 59
+; solution: UULLLLLDDDDRDULUURDLDDRRDDLLUURRDRRLLULDLDRRUULLUURDLDDRRUL
+##########
+#       ##
+# #      #
+#. ## @ ##
+# $##   ##
+#  ##   ##
+#.$ ### ##
+#$   $. ##
+#   .#  ##
+##########
+
+; source: boxoban/medium_train_001
+; par: 43
+; solution: RUURUDLLUURRDDLDDLUURRUULDDURRRURRDLLLLURRR
+##########
+#      . #
+#..$  $ ##
+# $ ######
+#$.#######
+#@  ######
+## #######
+##########
+
+; source: boxoban/hard_000
+; par: 82
+; solution: LDDLLUUUDDDRRUULULDURUULDUUURDLDDRDDLUDRRDDLLUDRRUULULUDRDRDDLLUURUULUDRDDLDDRULUU
+######
+#  ###
+#.$###
+# .###
+#. ###
+#  ###
+# .$@#
+#$$ ##
+#   ##
+######
+
+; source: boxoban/unfiltered_train_000
+; par: 43
+; solution: DLDLUDDRRRUDLLUURRURDLDDLLLLDDRURUULDRDLULD
+#########
+##. @   #
+##$     #
+##  #$.##
+#      ##
+# $$. ###
+#. ######
+## ######
+#########
+
+; source: boxoban/hard_000
+; par: 97
+; solution: RRRRDDDRRUUURDLDDLLUUURLDDDRRUURUULDLLDDDRRRUDLLLUUURRDULLDDDRRRUULULLLLDRURRRDRDDLLLUUDDRRUDLLUR
+##########
+#######  #
+#@$  .  .#
+### $ #.$#
+##### $. #
+#        #
+##########
+
+; source: boxoban/hard_000
+; par: 73
+; solution: UULLLLLDDRRURULDDLLURRLLULLDRRDRRUULLRRRRRDDLURULLLDRLDLLUURLDLLURDRDRRUL
+##########
+#  . .   #
+# $.$$$. #
+###   # @#
+##########
+
+; source: boxoban/medium_train_000
+; par: 75
+; solution: RRLDDDRRRURUUUUUULRDDDDDDDLLLLUUUUUUURDLDDDDDDRRRURUUUUUULLDRURDLLLLDDRULUR
+########
+## . $ #
+## $.$ #
+#   ##.#
+##  #  #
+#@$ .  #
+## # # #
+## ##  #
+##     #
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 42
+; solution: DDLLLLURDRRRDLLURRUULLDURRDDLLUURDLDLURUUR
+#######
+###  ##
+### $.#
+###  @#
+# $ $ #
+#.  . #
+##. $ #
+####  #
+#######
+
+; source: boxoban/unfiltered_train_001
+; par: 38
+; solution: DLLULDDURRRULDLDDRULUURRDLULDRDDRRURUL
+#########
+# #######
+# #######
+# #######
+# . #####
+#  $@####
+# $ .$  #
+# .$#  ##
+#.      #
+#########
+
+; source: boxoban/unfiltered_train_001
+; par: 41
+; solution: LLDRRRDDLLURLULURDRRUURUULDRDDLDLLURURLDR
+#########
+######  #
+######  #
+######$ #
+#####  .#
+###  @ .#
+### $  .#
+####$$.##
+#       #
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 58
+; solution: ULUURDLDRDDLDDRRRRUULRDDLLLUUUDDDRRRUULLDLLUURDLDDRRRLUULD
+########
+#   ####
+#   ####
+# $ ####
+# ..####
+# @#####
+#   $ ##
+# $$#  #
+# .  .##
+########
+
+; source: boxoban/medium_train_000
+; par: 39
+; solution: ULUURRULULLDURRDDLDDRULURURRDRUUDLLLDRR
+##########
+#######  #
+#######. #
+##    #  #
+# $.$ $  #
+# .    . #
+###  #####
+### $ ####
+####@#####
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 44
+; solution: LRRLLLLDLURUUDDLUUDDRRRRRDRRULLLLDRRULLLLULD
+##########
+#   ######
+#..#######
+#  #######
+# $##### #
+#   $@$  #
+#. # $ . #
+# ########
+##########
+
+; source: boxoban/medium_train_001
+; par: 47
+; solution: LDDLLUUUURRDDDUUULLDDDDRRRLUULRUULLDDDURUDDRDRR
+#########
+### #####
+# . #  ##
+# $$#   #
+#  $@#  #
+# $ #  ##
+#..   . #
+#########
+
+; source: boxoban/unfiltered_train_001
+; par: 64
+; solution: LLLULLRRRULLUURDLDDDRRRRUULRDDLLULLUURDLDDRRRRUULLLRDDLLUUUDRRDL
+##########
+####.  ###
+#### $####
+#      $ #
+# .$. $. #
+##      @#
+##########
+
+; source: boxoban/hard_000
+; par: 74
+; solution: DLLUULUUUUURRDLULDDDDDRDDRRULDLLUUDDRRULDRRRRULLDLLUULUDRDDRRULDLLUUDDRRUL
+##########
+# $ .#####
+# $ ######
+# ########
+#.########
+#.########
+#  ##   ##
+#. $@$ ###
+#        #
+##########
+
+; source: boxoban/hard_000
+; par: 72
+; solution: RRRRRUULRDDLLLLURDRRRUULDRDLLLURDRRUULULDRRDDLLLULURDDRRRUULDLLURDRUDRDL
+########
+## # .##
+## $ $ #
+# .$ $ #
+#@. .  #
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 39
+; solution: UUUDDDDRRRLLLUURRDRDLLURULDLUUDDRDRRRRR
+##########
+# ########
+# ########
+#. #######
+#.########
+# ########
+#$  ######
+#@$$ # ###
+#.$     .#
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 56
+; solution: DRRURRRRDRDDDDLDDRULUURUUULLULLLDLLURRRRRDRRDDDLDDRUUUUU
+##########
+#@$    ..#
+# $ ..$  #
+######## #
+######## #
+#######  #
+#######  #
+####### $#
+#######  #
+##########
+
+; source: boxoban/medium_train_001
+; par: 64
+; solution: ULLUURDLDDLLLLUURRRLLLUURDLDDDRRRRUULLLRRRDDLLLLUURRRULDLLUDRRUL
+#########
+# #######
+# #######
+# #######
+#. #  ###
+#.$$ .  #
+#  $  $##
+# ### . #
+#      @#
+#########
+
+; source: boxoban/hard_000
+; par: 62
+; solution: URLDLLULLDDDDRDLDRUULUUUURRDLULDRRRRULLDLLDDDRDDRLUULDUUUURRUL
+##########
+#.  $ $.##
+#   $@####
+# ########
+# ########
+#  #######
+# $## ####
+#.  .    #
+##########
+
+; source: boxoban/medium_train_000
+; par: 82
+; solution: RUURUURRRDDLURUULLDLDDDDLLDDRRUDLLUURUURUUULLDRURRRRDDLULULDDDUURRRULLLDDDLDDLDDRU
+########
+# .    #
+# $    #
+### #$ #
+##  #  #
+## . # #
+#@..####
+# $$####
+#   ####
+########
+
+; source: boxoban/medium_train_000
+; par: 36
+; solution: URRUULRDDDDUULLUUDDRULURDDLDRUURULUR
+######
+# ####
+#.  .#
+# $ ##
+# $  #
+#    #
+#@$.##
+#  $##
+#  .##
+######
+
+; source: boxoban/hard_000
+; par: 69
+; solution: LLLLLURRRDRRUUULLLDLDDRRURDRUDLLLLURRDLLLLLURRLLUURDLDDRRULDLUDRRRRUL
+##########
+#######  #
+# ###### #
+#  ##    #
+#.$# $##.#
+# $.$  . #
+#       @#
+##########
+
+; source: boxoban/medium_train_001
+; par: 59
+; solution: RRDRRUUUUUULDRDDDDDLLURDRUUUUUDDDDLLLLDRURRRUULDRDLUURUULUL
+########
+####  ##
+# . $. #
+##    ##
+##### ##
+####  ##
+## #$ ##
+#@$.  ##
+# $.   #
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 45
+; solution: DRDDLDDRDLLRUUURDDUUUULUURDDDDDLDDLLULLRRDLLL
+##########
+#######  #
+#######@$#
+#######  #
+########$#
+######   #
+#######$ #
+##. $ # .#
+#.      .#
+##########
+
+; source: boxoban/hard_000
+; par: 44
+; solution: RDRRUDLLURURLDDRUDDRRUULLRUUUURULDDDDDLDDRUU
+########
+####.  #
+#####  #
+#####  #
+#####  #
+### .. #
+#@$.$$ #
+## $   #
+####   #
+########
+
+; source: boxoban/medium_train_001
+; par: 79
+; solution: DRRUUUUULLLLLDDRURURRRDDDDDLLLLUUULURRLDDDDRRULDLUUUDDDRRRRUUUUULLLDLRURRRDDLUL
+##########
+### .  . #
+###.$. $ #
+###  ##  #
+# #  ### #
+# ##$$@# #
+#        #
+##########
+
+; source: boxoban/hard_000
+; par: 60
+; solution: DRRRLDDDRRRRRUULDRDLLLULLUURDLDDRRRLLLUUULLDRURRDDLDRULURULL
+##########
+# ########
+#@###### #
+#.$  .## #
+# $ $##  #
+###   #$ #
+#    . . #
+##########
+
+; source: boxoban/medium_train_001
+; par: 77
+; solution: LDDDRRRRRURULDDLLLLLUUURUUDDLDDDRRRRRULDLLULDLUDRRRRULDLLULUURUULDDDDUUUUUURD
+#########
+#  ######
+#  ######
+# . #####
+# $######
+# @######
+# ###.  #
+# $. $$ #
+#.     ##
+#########
+
+; source: boxoban/unfiltered_train_001
+; par: 30
+; solution: LLULDRRRRRULDLUULDLDRRULLLURUL
+##########
+######## #
+# .   .  #
+# #$   # #
+##.$ $ $ #
+##    @. #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 59
+; solution: UUURDRDDLRUUULLLLLLLDRURDLDRRLUURRDDURRRDDDLLURRUUULLLLDLDR
+##########
+#        #
+# $ $  $ #
+##   ... #
+#####.@$ #
+######   #
+###### ###
+##########
+
+; source: boxoban/medium_train_000
+; par: 54
+; solution: LLLUURRLLUUDDRRULDLDDRULUURRDLULDDUURRRRDLLULLDDRULURR
+#######
+#. ####
+#. # ##
+# $ . #
+#$$   #
+# $####
+#.  @##
+#######
+
+; source: boxoban/medium_train_000
+; par: 67
+; solution: LUURLUUUURRDDRRULDLURUULLDLDDDDDDRRRUUURULUULULLDDDDDRRDULLDDRRURUU
+#######
+#    ##
+# .  ##
+# # $ #
+# #.. #
+# ##$ #
+# $  ##
+# #$  #
+# @ .##
+#######
+
+; source: boxoban/medium_train_000
+; par: 62
+; solution: RRRUULLLDURRRDDLLLUURRRRRRDDLLRUDLLUULLLDDRRLLUURDLDRUURRRRDRU
+##########
+########.#
+##       #
+# $$# #$ #
+#.@$..   #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 44
+; solution: DRRURRRRURDDDDLLLUUUDDDRRRDUUUULLLLLDLLURRRR
+##########
+### #.#  #
+#@$   .$ #
+# $ . #  #
+#####$ # #
+#####    #
+######   #
+####### .#
+#######  #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 39
+; solution: RRUDDDLLDRLDDRULUUUUUURDDRDLDLDDRUUDDRU
+######
+#  . #
+# $$##
+#@   #
+#..  #
+#  .##
+# $ ##
+# $ ##
+#  ###
+######
+
+; source: boxoban/medium_train_000
+; par: 64
+; solution: LULLDLLLUUUUURUULDRDDLDDDDRUDRRULRRRDLULLDLLUUUURUULDDDDDRRRRDLL
+#########
+#  ######
+#$ ######
+#  ######
+#  ######
+# #######
+# .######
+# $$  .##
+#..   $@#
+#########
+
+; source: boxoban/hard_000
+; par: 49
+; solution: UURULDDDRULUULRRUULDRDLULLLRRRDDDRUULULLLDDRURURD
+########
+#####  #
+#. .$$.#
+#      #
+##  #. #
+## ##$$#
+#####@ #
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 29
+; solution: LUUUULDRDDLLUURDRDLULDDUUULUL
+#########
+##    ###
+#.$ .  ##
+#   $$ ##
+####    #
+###    ##
+###  .$@#
+####.  ##
+###### ##
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 34
+; solution: DDDRRDUUULDRDLLLLRRDRRRDLUUUULUURD
+#########
+#####   #
+####@ $ #
+####.$. #
+# ## $  #
+#.      #
+# ##  $ #
+#### .  #
+####    #
+#########
+
+; source: boxoban/hard_000
+; par: 40
+; solution: RDDRRDDLURUUUULUURDDDDDDLLUURLDDRRUULUUU
+######
+###. #
+### $#
+###  #
+#@$ .#
+## $ #
+## . #
+## $ #
+### .#
+######
+
+; source: boxoban/medium_train_001
+; par: 56
+; solution: RRDDLLDDRRRRRRLLLLLLUURDURUULLUURDLDRDDLDDRRRLLLUURDLDRR
+##########
+#  #######
+# $#######
+#@ .######
+##$ ######
+#   ######
+# $# #####
+# $ ..  .#
+##########
+
+; source: boxoban/medium_train_001
+; par: 49
+; solution: UUULLLLDRURRRDDLUDDRDDLLRURUUUULLLDRURDRDDDDLLLLL
+##########
+#   .    #
+#  # $ $ #
+#######. #
+###  ##.@#
+##   # $ #
+##.   $  #
+##########
+
+; source: boxoban/medium_train_000
+; par: 45
+; solution: RDLDDRDLLURUUULLDRULLLDRRURRRDDLURULLLLDRRURD
+########
+#### ###
+#.   @ #
+# $  $$#
+#####. #
+#### $.#
+#  .   #
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 24
+; solution: DLLLDURRUUUDLUDLDDRUULUR
+#######
+####  #
+###.. #
+#  $. #
+#     #
+## $$@#
+##    #
+# $   #
+# .   #
+#######
+
+; source: boxoban/unfiltered_train_001
+; par: 47
+; solution: LLDRURRDDRULURDDDDLURUUULLLLLDDUURRRRRRLLLLDRRR
+##########
+#   @   .#
+#$ $  $. #
+#  ##.  ##
+#.###$  ##
+#####  ###
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 50
+; solution: DLLUUUURDLDDRRLLUURDLDDRRRLLLUURDUUULUULLLDRRURDDD
+##########
+#    #####
+# $  #####
+####  ####
+#### $####
+####. ####
+#### $@. #
+#### . $.#
+###      #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 40
+; solution: RRRRRRRUUULUDDLDURRDLLRDLLLLRRRUUURUULDD
+##########
+###### .##
+######   #
+######$$ #
+######   #
+# ####.  #
+# ## .$$ #
+#@.      #
+##########
+
+; source: boxoban/medium_train_000
+; par: 52
+; solution: RUDLLURURRRRRLLDDRRUDLLUULLLDDRRRUULLDURRDDLLRRRLLLL
+##########
+####### ##
+##     ..#
+# $$# #$ #
+#.@ $  . #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 62
+; solution: DRURRDRDRRDDLLUURUURDULLLLLDRURRRDDLDDRULUURULDRRDUULLLRDDDRUU
+#########
+#@ .  . #
+# $ .  $#
+#####   #
+#####$$.#
+#####   #
+#########
+
+; source: boxoban/hard_000
+; par: 87
+; solution: DDRRRRULDLLUUUURRRRRDLULLLLDDDDRRULDLLUURUURRDDUULLDDLDDRRRRULUUULLLDDUURRRRRDLULDDDRDL
+##########
+#        #
+#$ #$ $ ##
+#@ # #####
+#...$ ####
+#  .  ####
+#####    #
+#####   ##
+####    ##
+##########
+
+; source: boxoban/medium_train_001
+; par: 90
+; solution: LDDDRRRLLDLDDRULUUUUURRRRDRDDRDDLUURUUULLLLLLDDDRRRRRLLLLULUURRRRDRRDDLLLLLLDDRULURULUURDD
+##########
+# @     ##
+# $ #   ##
+#  ###.  #
+# ..$   ##
+#  ###$.##
+# $###   #
+#  #######
+# ########
+##########
+
+; source: boxoban/hard_000
+; par: 57
+; solution: UULUURDLDDRDDLUUUURDDUULLLDRURRDDLUDDDRDDLUUUURDUUULRDDLU
+######
+# #. #
+# .. #
+#  $$#
+###  #
+###$@#
+### .#
+###$ #
+###  #
+######
+
+; source: boxoban/medium_train_001
+; par: 62
+; solution: DLLDDRULUUUUUURRDRULLLDDDDDDRURULDLUUUURURRDLLURRRRDLLURRRRDLL
+##########
+#.       #
+#.$.$. $ #
+# ########
+# ########
+#  @######
+#   ######
+# $#######
+#   ######
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 45
+; solution: DDDRDULUURDULUUURRDLULDDDRULURDDDDLDDRRLLUURD
+##########
+#   ######
+# $.######
+#@$#######
+#  ##### #
+#.$ #### #
+#  ####  #
+# $ # ## #
+# . .    #
+##########
+
+; source: boxoban/medium_train_001
+; par: 51
+; solution: UUURDULUUURRDRDRDDLUURUULLDRURDULLLLDRLDDRUURLLURRR
+########
+#    .##
+# $ . ##
+# $# . #
+#  #$ ##
+# $#  ##
+# .## ##
+#@######
+# ######
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 47
+; solution: RRUDLLUUUUURURRDLULDLDDRRULUURRDLLDDDLDDRURUUUU
+##########
+## . #####
+#. $ #####
+#. $######
+#   ######
+# . ######
+# $$# ## #
+#@       #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 49
+; solution: UUUULDRDDDLLULLULDRRRDRRULLRRUULDRDDLLULRDRRULDLL
+##########
+#######  #
+## ## #$ #
+#     #  #
+#   .$.$ #
+#  ..  $@#
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 57
+; solution: DDLLLLULDRRRRUURUULDRDDDLLLLUULLRDDLLUUUDRDRDRRRRURUUULUU
+##########
+#######. #
+######   #
+#######$ #
+#.#####  #
+#  # ##$ #
+#  $ ##.@#
+#  $ ##  #
+# .      #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 38
+; solution: RDDDLURULDLLDDDUUURRDLULDRDLULDURRRRDL
+#######
+### @ #
+## .$ #
+##    #
+# $ $ #
+#  .$ #
+#. #  #
+# .#  #
+#     #
+#######
+
+; source: boxoban/medium_train_000
+; par: 50
+; solution: RRUUULULLDDRURRDLRDDLURUULUURDDDDLUULLDRURRUULDRDL
+########
+#####  #
+### . $#
+### .$ #
+### $. #
+#####$ #
+#   @ .#
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 49
+; solution: ULLLLDLDURRRLLDLDUURRRRRURDDDUULLLLLDDDDLLDDRULUU
+##########
+###      #
+##  $  @ #
+##$ ###  #
+#.   ##  #
+#$. ### .#
+# . #### #
+# $## #  #
+#        #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 50
+; solution: UURUUULLDLLDDRULURURRRDDDDDLLLUUURURURDDULLDLLUUUR
+########
+#   ####
+#  .####
+#  .$ ##
+# . $ ##
+# $ #  #
+#  # .##
+##$#  ##
+##  @  #
+########
+
+; source: boxoban/hard_000
+; par: 66
+; solution: DRRRURRDLULDRDULLLDLLLURRRRRURRDDLUDRDDLULUDRRUULLLRDDRDRDDLURUULU
+##########
+###@## . #
+# $ .$ . #
+#    # $ #
+######   #
+#######. #
+#######$ #
+#######  #
+######## #
+##########
+
+; source: boxoban/medium_train_001
+; par: 31
+; solution: URLUURDRRRLDRRLULLLLDDRURULDRRR
+##########
+# ########
+#   ##  ##
+#.$$  . ##
+# $  $..##
+#@ #     #
+##########
+
+; source: boxoban/hard_000
+; par: 53
+; solution: URUUURULLLRRDDLULURDDRDDLDDRULUURUULURDDDLDDRUULUULUR
+#######
+#.  ..#
+## $  #
+### .##
+###$$##
+###   #
+###@$ #
+###  ##
+#### ##
+#######
+
+; source: boxoban/medium_train_000
+; par: 75
+; solution: LULLRRDDDDDDDLLLLLLUUUUUUURRDLDLDDDDDRRRRRRUUUUUUULLDLLULLDDUURRDRRULLDLDLD
+##########
+# .   $ ##
+#.$ $ .$@#
+#  #### ##
+# ####  ##
+#. #### ##
+# ####   #
+# ##### ##
+#        #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 34
+; solution: DLDLLLRRRUULDRDLLURURRUULDDRDLLLLL
+##########
+######## #
+#######  #
+#######$ #
+#  ###  @#
+# .   $  #
+#  ..$ $ #
+## ### .##
+####### ##
+##########
+
+; source: boxoban/medium_train_001
+; par: 49
+; solution: UUUULDRDDDLLLLRRURDRUUULDUUURDLDLLURDRDRDDLLURDRU
+##########
+#######  #
+##### $. #
+#####  $.#
+####### .#
+###### $ #
+#  .   $@#
+##########
+
+; source: boxoban/medium_train_001
+; par: 63
+; solution: URRRRDDRDDDDDLURUUUULUURDDDDDDUUUUUULLLDRRURDDDDDUUUUULLLLLDRRR
+#########
+#       #
+#@$ $.$ #
+#   #  ##
+######  #
+#####   #
+#### . ##
+#####$.##
+####  . #
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 34
+; solution: LDULLDDRRRUUUULDDDULDULUURDRDDRDRR
+#########
+###  ####
+#    ####
+# $$  ###
+# . @####
+# $$  ###
+# ..   .#
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 44
+; solution: DULLDDRDULUURRDDDDDUULLDRDDLDRRLUUUUULUURDDD
+#######
+#  @###
+# $$###
+#   ###
+# $  ##
+# ..###
+##  ###
+# $. ##
+#   . #
+#######
+
+; source: boxoban/medium_train_001
+; par: 57
+; solution: UULULUDRDRDDDRULUULULLDDRUDLLDDRUURURUULLDDUURDRDLDLRUULD
+########
+##  ####
+#  .####
+#  $ # #
+#    # #
+## $   #
+#.. # .#
+# $##@$#
+#  ##  #
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 66
+; solution: DLDRDDLUDLLLUUURRLDLDDRUUDRRRURLDLLLULUURRDRRDDLURURDLDLLLULUURRDR
+##########
+#   #@####
+# .$ . . #
+#  # $ . #
+# $ $ ####
+#     ####
+# ########
+#  #######
+# ########
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 58
+; solution: ULLLLDLDDRRULULLRURRRDRDRDLUUULLLDLLDLURRURRRDRDLUULLDDDLU
+##########
+#.#      #
+# $.$#  @#
+#    .$$ #
+##    .  #
+#####  ###
+###### ###
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 33
+; solution: RRRDRRURRDLLDLLUURRRLLLLLLDRLDRRR
+##########
+# ### ####
+#@$     .#
+# $. . $ #
+# $  .  ##
+##########
+
+; source: boxoban/medium_train_000
+; par: 58
+; solution: DDDLRDDDLLLLLRRRRRUULLLULLDLDLDDRUUDRRRRRRUUULLLRRRUULDRDL
+##########
+########@#
+####### $#
+#######$ #
+##  . .$ #
+##. #    #
+#  ##### #
+#    $   #
+#  #### .#
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 40
+; solution: LULLDURRRRRDLULLDDRULURDDLLLLRUULLDDUURD
+##########
+#      . #
+# $$.$@$ #
+# .    ###
+#.########
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 35
+; solution: DRDLUUURDLDRDRRUULRDDLLUURRRDULLLDR
+##########
+#   .#####
+#  @$$   #
+#  $  .$ #
+# .    . #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 61
+; solution: LLLUDRRRDLLULUULURRDLDDLDDDRRUURULDDDLLUURRURRDDLULLLDDRRURUL
+#######
+#   .##
+#    ##
+# $####
+# . .@#
+# . $ #
+# #$$ #
+#   ###
+#  ####
+#######
+
+; source: boxoban/unfiltered_train_001
+; par: 65
+; solution: URRRRDURRDDLULULLDRULLLDRURRDDRRLLUURDLDRUULLLDRURRDDLURULDRRRULL
+#########
+#  ..   #
+#@$ $$$ #
+####  ..#
+######  #
+####### #
+#########
+
+; source: boxoban/medium_train_000
+; par: 46
+; solution: LURRRRDRRURDLLLURDRRUUULLDDUURRDDDLLRRDUUULULD
+##########
+#####    #
+# ## #$$ #
+# $   .. #
+# @# .$  #
+######## #
+####### .#
+######## #
+######## #
+##########
+
+; source: boxoban/hard_000
+; par: 51
+; solution: LLUULLLDDRURURRUULDRDDDLLUURLDDRRUUUDLLDLLURDRRDRUU
+########
+#### .##
+#### .##
+#  .   #
+# $$$ ##
+# .  $@#
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 38
+; solution: ULULLUURDDUURDRRDULLLDDRDLLUUURRDURRDL
+##########
+# ########
+#     ####
+#   $$  ##
+###  .$$ #
+###  . . #
+##.   @ ##
+###      #
+##########
+
+; source: boxoban/medium_train_001
+; par: 50
+; solution: URRURUUUULLDLLRRUULDULLDDUURRDLDDRULURRRURDDDDDRDL
+#########
+#      ##
+#.$$   ##
+#  $ # ##
+#.  #   #
+######  #
+###.#   #
+#  $ .  #
+###@# ###
+#########
+
+; source: boxoban/unfiltered_train_001
+; par: 64
+; solution: DLDDDLLLUUUURRDULLDDDDLDDRRUDLLUURUUUURRDRDDLURURULLLRRDDDDLLDLU
+##########
+####  ####
+# .  $@###
+#  #.$ ###
+#  #  ####
+##.#  ####
+#     ####
+#.$$##  ##
+#        #
+##########
+
+; source: boxoban/hard_000
+; par: 56
+; solution: RDRRUUURULLLRDULLRRDRDDDLLURDRUUULDUURDDDDLLURUUULLDRURD
+##########
+#  .    .#
+#  # $$$ #
+######. ##
+####@$ . #
+#####    #
+####### ##
+##########
+
+; source: boxoban/medium_train_001
+; par: 72
+; solution: DLURRURRDDDDLLLLLUURULLDRDDRUURULRRURRUULDRDDDDDLLLLUUURRURURDLLDLDLDDRU
+##########
+######## #
+#######  #
+#######$ #
+### ##   #
+#. . @ #.#
+##  $.## #
+### $$ # #
+##       #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 74
+; solution: DRDLDRRRUUUUURRUULLDURDRDDDLDLDLRUUURRUULLDDRDDLDDLLLULRDRRURURUULDDUUUURD
+##########
+###      #
+###  #$$ #
+######   #
+###### . #
+###@##   #
+#  $ #  ##
+#.  .$.###
+###     ##
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 38
+; solution: ULLLRDDRUDRRRRULDLLLLLULURDDRRRRRULDLU
+##########
+# ##   ###
+#. #  ####
+# $...# ##
+# $ $@ $ #
+#        #
+# ########
+# ########
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 42
+; solution: DDLDDRDRRDDRUDRRUULLLDDRRURULLULLLLUURURDD
+#########
+##@######
+##$ #####
+#  $#####
+# .   ###
+#  .    #
+## ..   #
+#### $$ #
+####    #
+#########
+
+; source: boxoban/hard_000
+; par: 55
+; solution: RRDDLURUUULLDDRLUURRDDLDDDLLULUUUURLDRLDDDDRRRUUULLULDD
+########
+# ###  #
+#  .$ ##
+# $.# ##
+# $@  ##
+# ##$.##
+#. #   #
+#     ##
+########
+
+; source: boxoban/medium_train_001
+; par: 49
+; solution: RRRRRDLDDRRRUUULRDDDLLLUURDURURDDDLLULDUUULLLDDRU
+##########
+#@$.  .  #
+## $# $$ #
+#   #  # #
+#  #     #
+#  # .# .#
+#  #######
+#  # # ###
+#      ###
+##########
+
+; source: boxoban/medium_train_001
+; par: 37
+; solution: RUUURURRUULLLLDDRRRUDLLLUURRDULDDDDDD
+########
+#   .  #
+# $$$  #
+#  . .##
+##  ####
+## #####
+# $#####
+#@ #####
+##.#####
+########
+
+; source: boxoban/unfiltered_train_000
+; par: 46
+; solution: DRRURRDRRRULUDDLLURDLLLLLURRDRRRRRUUUDLUUDRUUU
+##########
+####### .#
+#######  #
+#######. #
+#######  #
+#######  #
+# #####$ #
+#@$ .$ .$#
+#        #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 39
+; solution: LUUUUURDLLDLLDURRURRDLDDLLLULDRRRRDRRUL
+##########
+####    ##
+###.$ $ ##
+#      ###
+# $   . ##
+#    .$  #
+#.### @ ##
+# ########
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 50
+; solution: DLLUUURRDLDDUUULDRDDDDUURULUURRDLDDLDDDUUUURUULDDD
+######
+#    #
+# $$ #
+#.$@##
+#  $##
+# ..##
+#   ##
+##  ##
+##.###
+######
+
+; source: boxoban/medium_train_001
+; par: 52
+; solution: RURRDDDLLUULURUURUULLDLDRUURRDLRDDLUDDDDRDRULLUUUULU
+#######
+# .   #
+#  .  #
+# $  ##
+###  ##
+## $. #
+##@ #.#
+###$$ #
+##    #
+#######
+
+; source: boxoban/unfiltered_train_001
+; par: 31
+; solution: LLUUUULDULUUDDDRDRDLUUURUULDDDD
+##########
+#.  ######
+#.$ ######
+#$$ ######
+#   ######
+# $ ######
+#    #   #
+#.. #   ##
+#    @  ##
+##########
+
+; source: boxoban/medium_train_000
+; par: 47
+; solution: LDDLLULDRRRULRUULDRDDLLLDDDUUUUURRDLRRDLLUURURD
+#######
+# #  ##
+#   $@#
+#.$$.##
+#. $ ##
+#  ####
+# #####
+# #####
+#.#####
+#######
+
+; source: boxoban/hard_000
+; par: 62
+; solution: UURURRRRRDDLDLURRUULLLLDLLLURDRRURRRRDDLLUDRRUULDDULLURDLLLLUR
+##########
+#   .  . #
+#.   $ $ #
+##$###$  #
+##@### .##
+##########
+
+; source: boxoban/medium_train_001
+; par: 49
+; solution: DULULUULLRRDDLLLUUUDDDRRRRDDLUULLLUURRRDULLLDDRRR
+##########
+#.     ###
+#     ####
+#  $ #####
+# ## #####
+#    .####
+# ## $@###
+# ## $$  #
+#### .. ##
+##########
+
+; source: boxoban/medium_train_001
+; par: 49
+; solution: LDRDDRDLULLDLLURRRLDLLLLURDRRURRRURDLDLULLDLLURRR
+##########
+###### @ #
+###### $.#
+## ## #$ #
+# $ $ .  #
+#    .  .#
+##########
+
+; source: boxoban/medium_train_000
+; par: 37
+; solution: ULURDDDLLLLLLUURRRDDLUDRRRULURLLLLULD
+##########
+#    #####
+#  #######
+# ###  ###
+#  ##. $.#
+#   $  . #
+#.#$  $@ #
+#        #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 44
+; solution: RRDDLLULUUDDRDRRULLRULULLDDDRRRUULLRDDLLUUUU
+#######
+# #####
+#.#####
+# .####
+# $ ###
+#  @  #
+# .$$ #
+# $  .#
+#######
+
+; source: boxoban/hard_000
+; par: 55
+; solution: LDDRDDLDDRRDLULUURDUUULDRDDLDRUUULDRDDDRRULDLUDRRRRULLL
+########
+# @#####
+#$######
+#   ####
+# $#####
+#   ####
+#..#####
+# .  $ #
+#.$    #
+########
+
+; source: boxoban/medium_train_001
+; par: 60
+; solution: URRDRUUDDRDDLLLLUULURDDDLURUURLDDDRRRRUUUULLDLLDDLUDDRRRRUUU
+########
+#####  #
+#####  #
+## ##. #
+## # . #
+#. $   #
+# @#.  #
+#$$ #$ #
+#      #
+########
+
+; source: boxoban/medium_train_000
+; par: 70
+; solution: UUURUUURRDULLDDDLUURURRDDUULLDDDRRDDLURUUUULLDDDLDRRLUUUURRDDDDLLURDRU
+#######
+#.   ##
+#  #$##
+#  #.##
+#    .#
+# $$ ##
+#$# .##
+#@ ####
+#######
+
+; source: boxoban/medium_train_001
+; par: 51
+; solution: LLLDUUULUURDDDRDDLUDLUDRRDDLLUDRRUUULLUUDDRDRDDLLUU
+#######
+#  ####
+#.$####
+#  ####
+# . ###
+#.  $@#
+# $ ###
+#$. ###
+#     #
+#######
+
+; source: boxoban/hard_000
+; par: 57
+; solution: LLULLLUUURUDLDDDRRRDRRRRUUULLDDRLLLRRRDRUUDLLLDRULLLLDLUU
+##########
+# .# #####
+# $# #####
+#    #####
+#.#  #  .#
+# ###  # #
+#    $$$ #
+#  #  @. #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 49
+; solution: LULURDLLDLLUURRDDLURRRURRDRULLLDDRULURDRUDLLLLURR
+##########
+# ##  #..#
+# .$  .  #
+# $  $$  #
+#   # @###
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 36
+; solution: RRDRDRRRLULLLURDRRURDLLLURRLLLLLDRRR
+##########
+#@$    . #
+# $  . $ #
+#### $ ..#
+#####    #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 46
+; solution: RDDLUDLLLURDRRDDLDLURUURUUDDLLURDRRUULDRDLULDD
+#######
+# #####
+# ##.##
+# ##@ #
+# $ $ #
+#     #
+# . $##
+# $. ##
+#   . #
+#######
+
+; source: boxoban/hard_000
+; par: 66
+; solution: URUULULUURDURRDLULLDDDRRUULRRULDDDLLUUDDRRDDLURUUULLDDRLUURRDDLLUR
+########
+# ..  ##
+#  $$  #
+##  .###
+##  $###
+### .###
+###$ ###
+###@####
+########
+
+; source: boxoban/medium_train_000
+; par: 38
+; solution: LLDDDRRDDDLLUURUULUURDDDRDDLULURDDDLUU
+#####
+# ###
+#  @#
+# $##
+#. ##
+#. .#
+# $ #
+#$$ #
+#  .#
+#####
+
+; source: boxoban/unfiltered_train_000
+; par: 34
+; solution: UULLRRRRURUULDDULLDURRDDDULLLRUURD
+##########
+#   #### #
+# #####  #
+# ###  $ #
+#  ##$$  #
+# ..$ .  #
+#        #
+#####@ . #
+###### # #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 54
+; solution: DDLLLLURDLDDLLDDRURUUURRULUDRUDRRULDDLLLDDDLULURDRULUR
+##########
+#####..  #
+#####$.$@#
+#### $   #
+###  .   #
+##   #####
+##   #####
+## $ #####
+#   ######
+##########
+
+; source: boxoban/medium_train_000
+; par: 70
+; solution: LUURRRRRDLDUULLLLDDDLURUURRRRDDDRDDLUDRDDLURUULUDRDDLURUULUURULLLLRDRR
+##########
+# .      #
+#. #  $. #
+# $@##$###
+#  ##   ##
+## ###.  #
+######  ##
+##### $ ##
+#####   ##
+##########
+
+; source: boxoban/medium_train_001
+; par: 57
+; solution: UUURRRDRRURLLLLRDRRRRDDLLLLLLUULUURDDURRDRDURRRDDLLLLRRRU
+##########
+#  ##### #
+#    $ $.#
+#  #   . #
+# .##$#$ #
+#@ .     #
+##########
+
+; source: boxoban/medium_train_001
+; par: 57
+; solution: LLLDDDRRDLULDRDDLDRUUULDRDDRULULDRDRRLULUUULUUURRDLDUULDD
+########
+#   @ ##
+# $ ####
+# $#####
+#.. ####
+# $ ####
+#  #####
+# $ ## #
+#.   . #
+########
+
+; source: boxoban/medium_train_000
+; par: 53
+; solution: RRURRDRUDRRULDLLULLDRRRRULLRRRUULLDRDDLLURDLLLURDRRUR
+##########
+######   #
+###### $.#
+###  .$$.#
+#@$     .#
+##########
+
+; source: boxoban/medium_train_001
+; par: 66
+; solution: RDLULLDDDDDDRRURLDLLURDRRLLUULUUUURRDLULDDDDRDDLUUUUDDDDRRRULLDLUU
+########
+#  @ ###
+#. $ ###
+# ######
+#.######
+#  # ###
+# $ $. #
+# $  . #
+# ######
+########
+
+; source: boxoban/medium_train_000
+; par: 55
+; solution: DLLDDRRRLLLUURRDRDLURRRDRRULDLLULLDRRRRULDLLULULLDRLDRR
+##########
+###@######
+#  $# ####
+# $. . $ #
+# $ .   .#
+##########
+
+; source: boxoban/medium_train_001
+; par: 45
+; solution: LLLLLLURULDLUDRDRRRULDLLUURDLDRURRDRRULLLLDLU
+##########
+#  #######
+#  #######
+#.########
+# . # ####
+# $$  $ ##
+#.  .  $@#
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 46
+; solution: LUULUUURRDLULLDDDRRUUDLLUURRDDDLLDRUULUURDDRDL
+#######
+#   . #
+#  $ ##
+#  $###
+#.  ###
+# $.###
+# .$@##
+#   ###
+#   ###
+#######
+
+; source: boxoban/medium_train_000
+; par: 56
+; solution: RDDUULDRDRDDLLLLUULULLDDRURRDDRRULDLUDRRRRUULULDRRDDLULL
+##########
+#    #@ ##
+# .  #$$##
+#  $.# . #
+#  #.$   #
+#  #     #
+# ##### ##
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 38
+; solution: DDURRUULDLDDDLRRDLUUUURUURULDDDLDDDDLL
+#########
+#####.  #
+##### $ #
+######  #
+#####@$ #
+#### $. #
+####    #
+###.$   #
+# .     #
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 44
+; solution: DLRDDRRUDLLUURRURDULLLDLLUURDLDRURRDRDDLLLLU
+##########
+###  ### #
+##   @$  #
+##..$.   #
+#  $# #$.#
+#        #
+##########
+
+; source: boxoban/hard_000
+; par: 40
+; solution: DDDUUURRDLULLLDDDDRRUUULULDDURRRULDDDRUU
+##########
+# .@. ####
+# $$$ ####
+# # $#####
+#.#   ####
+#   .    #
+##########
+
+; source: boxoban/hard_000
+; par: 40
+; solution: RRUULDLLULLDRRRLULLLLDRRURRDRRULLLLLDRRR
+##########
+#.    $  #
+# $ $ .$.#
+#  ###@. #
+##########
+
+; source: boxoban/hard_000
+; par: 53
+; solution: LLDLLULUDRDRRULLULLUURRDULLDDRURULDLUDDDDRRLUULUURRDD
+#########
+#. ######
+#   #####
+# .$#####
+# $ #####
+#  .  $@#
+# $ . ###
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 41
+; solution: URUULDRDDDRRULDLURUDDRRRURUULDDRDLLLLULUU
+##########
+###  #####
+## . #####
+##$ .##  #
+##. $##$ #
+##@ $ #  #
+#  .     #
+##########
+
+; source: boxoban/hard_000
+; par: 67
+; solution: ULLULUURLDDDRRRUDLLULUURURRDLULLDDDDRRRUUDDLLLDDRULUUUUURRDLULDDDDD
+#######
+# .####
+# $  ##
+# $ .##
+# #  ##
+#  #  #
+# . $##
+# $#@##
+#. ####
+#######
+
+; source: boxoban/hard_000
+; par: 58
+; solution: RRURRDDDDDDLUDLLLLLUUDDRRRRRURUUUUULLDRURDDDDDUUUULLLLURRR
+##########
+######## #
+### $  . #
+###@$    #
+# ##### ##
+#. ###   #
+# ####. ##
+#$ ###$ ##
+#      . #
+##########
+
+; source: boxoban/hard_000
+; par: 93
+; solution: ULLUULULLLDDDDRULUUURRDRDRDDLURUULULLLDDDRRRLLLUUURRDRRDDUULULLULUURDDLDDDDRRRRUULULLRDRRDDLU
+#########
+#  ######
+# $######
+#  ######
+#.   ####
+# # . ###
+# ##  ###
+#  $  $ #
+# $. .#@#
+#########
+
+; source: boxoban/hard_000
+; par: 64
+; solution: LLLUULLLDDDDRULUUURRDRDDLLRURUULLLDDRRLLUURDURRDLDDLDLURRUUULLDR
+#########
+#    ####
+# $. ####
+#.. . $@#
+# $$ #  #
+#  ######
+# #######
+#  ######
+#  ######
+#########
+
+; source: boxoban/medium_train_001
+; par: 56
+; solution: DRRRRDDLLLUUUULURRLUURRLLDDDDDDDRULURRLDDRRUULLULUURULUR
+##########
+#### $.. #
+#### $#  #
+###   .# #
+###  ### #
+###@  #. #
+###      #
+# ##$$#  #
+#        #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 41
+; solution: LDULLDDRRLDDUULUURDLDDDRDUULUURRDDRDLLULD
+#######
+#   @##
+# $$ ##
+# . .##
+#  $  #
+# $  ##
+#. ####
+# .####
+#  ####
+#######
+
+; source: boxoban/hard_000
+; par: 62
+; solution: URUULLDRDDLURUURRRRDDLLLRUULLDDLDDRUURRUULLLDURRRDDRULULLLDDRU
+########
+# .  . #
+#$ . $ #
+# $  $ #
+#.@#####
+#  #####
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 79
+; solution: LLLDDUURRRRRRDLULLLLLDDDUUURDURRDLULLDDDDDDUUUUUURRRRRDLULLDLULDDDRULUURRDLULDD
+#########
+#   @   #
+#$$$. $ #
+#  ######
+#. ######
+#.#######
+#  ######
+#  ######
+#.#######
+#########
+
+; source: boxoban/medium_train_001
+; par: 48
+; solution: RRRRLLDDDDDDRRRDRUUDLLLLUUUUUURRDLULDDDDUULULURR
+##########
+#@$ . .###
+# $ $  ###
+##  ######
+###  ##  #
+###  ##. #
+###.###  #
+##  $    #
+####     #
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 54
+; solution: DDLLURLLLLLDDDURDULUURRRRDRRRUULDLDRURDDDUUULLLLLDRRRR
+##########
+###   #@ #
+#     $  #
+#$# $   .#
+#  ####  #
+# $ ##   #
+#..  ## .#
+######## #
+######## #
+##########
+
+; source: boxoban/medium_train_000
+; par: 62
+; solution: DULLDLULDLDDRRUDLLUURURRDLURRRDLULLDDLRUURRDLULLDDULDDUURURRDL
+##########
+####    @#
+### .$ $$#
+###  $##.#
+#   . #  #
+## .###  #
+## ####  #
+#   ##   #
+#   ##  ##
+##########
+
+; source: boxoban/unfiltered_train_001
+; par: 48
+; solution: ULUURDDLDDDRRULDLUUURDLDRUUUULDDUUUURDDURRDLLDLU
+######
+#  ###
+#.$  #
+# $  #
+# $###
+# .###
+#.@###
+# $. #
+#   ##
+######
+
+; source: boxoban/medium_train_001
+; par: 60
+; solution: RRRDLLLULLDDDDDDRRRUURUUURULDDDDRDDLURUULUULLULLDDDDDDRRRURU
+########
+## #####
+#  @.  #
+# .  $ #
+# ## $##
+#  ##. #
+# ##   #
+# ## $ #
+# $  . #
+########
+
+; source: boxoban/unfiltered_train_001
+; par: 42
+; solution: DLDDRDUULUURRDLULDRDLDLDDRURUUUULLURDDDRDL
+######
+#    #
+# $. #
+#  @ #
+#    #
+#. $##
+#.   #
+# $$ #
+#  . #
+######
+
+; source: boxoban/unfiltered_train_000
+; par: 21
+; solution: RRDUURRDDURRULLDLDDLL
+##########
+###### ###
+####     #
+#### . $ #
+# @ .$   #
+#   $ $  #
+##.   .# #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 31
+; solution: LUURDDRDRRRRULURDDLLLURUULDLDDL
+##########
+#     ####
+# $ $   .#
+# @ .$.$ #
+#.       #
+##########
+
+; source: boxoban/unfiltered_train_000
+; par: 43
+; solution: LDLLDDRRRURDLLLLUURRDRDLULULDRRDRRRULLLUULL
+#########
+# # #####
+#.  $@###
+#   $##.#
+#  $  $ #
+# ..    #
+#########
+
+; source: boxoban/unfiltered_train_000
+; par: 41
+; solution: ULUUULLDLLURRRRDRRULLLLLLRRRRDDDRULUULLDR
+##########
+#.     $ #
+#. $ $.. #
+#  ###   #
+#  ### $##
+#######@##
+##########

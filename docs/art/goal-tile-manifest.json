@@ -1,0 +1,13 @@
+{
+  "path": "assets/sprites/goal_tile.png",
+  "width": 256,
+  "height": 256,
+  "pixelFormat": "Format32bppArgb",
+  "transparentPixels": 19188,
+  "partialAlphaPixels": 45539,
+  "opaquePixels": 809,
+  "centerAlpha": 253,
+  "cornerAlpha": 0,
+  "bytes": 87294,
+  "sha256": "C8B4A5347FB7BE7366110583C7F34732FE964F04CAD4D0286C8F981BA0391D58"
+}

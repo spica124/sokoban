@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-06",
+  "mode": "builtin image_gen",
+  "records": [
+    {
+      "file": "rule_color.png",
+      "subject": "An orange pumpkin and a dark-green kabocha squash side by side. Exactly two pumpkins, both entire silhouettes visible and similar visual size. The orange pumpkin matches reference image 2; green squash is its green companion with short brown stem. No base, no plate, no floor.",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: An orange pumpkin and a dark-green kabocha squash side by side. Exactly two pumpkins, both entire silhouettes visible and similar visual size. The orange pumpkin matches reference image 2; green squash is its green companion with short brown stem. No base, no plate, no floor. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png"
+      ],
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-4c7fee10-1e4e-4339-baae-56db6d8a3e48.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/rule_color.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 107,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha",
+        "note": "107px requested extent so bicubic alpha>16 visible bounds do not exceed108px."
+      }
+    },
+    {
+      "file": "rule_ice.png",
+      "subject": "A round ice crystal badge. One chunky pale blue icy crystal medallion with a circular overall silhouette, a few broad icy facets and white glints. Clear icy blue color distinguishes ice from farm wood. No surrounding sparkles, no backing plate, no floor.",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: A round ice crystal badge. One chunky pale blue icy crystal medallion with a circular overall silhouette, a few broad icy facets and white glints. Clear icy blue color distinguishes ice from farm wood. No surrounding sparkles, no backing plate, no floor. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png"
+      ],
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-49808955-777e-4506-86ae-5b1cac31d66e.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/rule_ice.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 108,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha"
+      }
+    },
+    {
+      "file": "rule_oneway.png",
+      "subject": "A wooden sign with an arrow. One chunky rounded wooden arrow-shaped sign pointing straight up, with one short wooden signpost stem. Broad honey-brown wood face and darker brown outline, very sparse subtle wood grain, no lettering. No ground, no floor, no shadows beyond the object.",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: A wooden sign with an arrow. One chunky rounded wooden arrow-shaped sign pointing straight up, with one short wooden signpost stem. Broad honey-brown wood face and darker brown outline, very sparse subtle wood grain, no lettering. No ground, no floor, no shadows beyond the object. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png"
+      ],
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-2acbcb70-863c-4179-94d4-d9230dacb6aa.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/rule_oneway.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 108,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha"
+      }
+    },
+    {
+      "file": "rule_mix.png",
+      "subject": "An ice crystal and an arrow sign together. Exactly two main objects: a round pale blue ice crystal badge at the lower left and a wooden upward-pointing arrow sign on a short stem slightly behind at right. Match supporting images 3 and 4's simple crystal and sign designs. Both main silhouettes must remain immediately recognizable at tiny size. No ground, no platform, no surrounding decorations.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png",
+        "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-49808955-777e-4506-86ae-5b1cac31d66e.png",
+        "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-2acbcb70-863c-4179-94d4-d9230dacb6aa.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: An ice crystal and an arrow sign together. Exactly two main objects: a round pale blue ice crystal badge at the lower left and a wooden upward-pointing arrow sign on a short stem slightly behind at right. Match supporting images 3 and 4's simple crystal and sign designs. Both main silhouettes must remain immediately recognizable at tiny size. No ground, no platform, no surrounding decorations. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-a19d9bfe-1213-4b55-bdc6-d3f0c14e896e.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/rule_mix.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 107,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha",
+        "note": "107px requested extent so bicubic alpha>16 visible bounds do not exceed108px."
+      }
+    },
+    {
+      "file": "daily.png",
+      "subject": "A small paper calendar page with a pumpkin. One chunky cream paper calendar page with a red-brown top binding and two simple hanging rings. At the center one tiny orange pumpkin illustration matching reference image 2, taking the place of the date. ABSOLUTELY NO NUMBERS, no letters, no words, no date grid. Simple front view, softly rounded square calendar silhouette.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: A small paper calendar page with a pumpkin. One chunky cream paper calendar page with a red-brown top binding and two simple hanging rings. At the center one tiny orange pumpkin illustration matching reference image 2, taking the place of the date. ABSOLUTELY NO NUMBERS, no letters, no words, no date grid. Simple front view, softly rounded square calendar silhouette. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-6d99d4e3-230f-458b-b2e5-210444663242.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/daily.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 108,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha"
+      }
+    },
+    {
+      "file": "trophy.png",
+      "subject": "A small gold trophy. One plump golden winner's cup with two curved handles, a short stem, and compact dark honey-brown base. Straw yellow gold fill, warm amber shadow and restrained cream shine, bold dark brown outline. Plain cup body without any writing or engraving. No confetti or backdrop.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: A small gold trophy. One plump golden winner's cup with two curved handles, a short stem, and compact dark honey-brown base. Straw yellow gold fill, warm amber shadow and restrained cream shine, bold dark brown outline. Plain cup body without any writing or engraving. No confetti or backdrop. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-b6d4d26f-b3a3-49b2-ab41-262efa5cff99.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/trophy.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 107,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha",
+        "note": "107px requested extent so bicubic alpha>16 visible bounds do not exceed108px."
+      }
+    },
+    {
+      "file": "hanger.png",
+      "subject": "A wooden hanger with a straw hat. One honey-brown triangular wooden clothes hanger with a visible dark metal hook at top, holding a small straw-yellow sun hat with a muted red band draped over the lower part. Hanger triangular silhouette remains clear behind hat. A single hat, one hanger, no clothes, no stand, no background.",
+      "refs": [
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+        "C:/Users/limji/Desktop/game/sokoban/assets/sprites/box.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, centered, transparent background. Use case: stylized-concept. Asset type: one small 128x128 game UI icon. Reference image 1 is STYLE ONLY (do not include the capybara); reference image 2 shows matching pumpkin art. Primary request: A wooden hanger with a straw hat. One honey-brown triangular wooden clothes hanger with a visible dark metal hook at top, holding a small straw-yellow sun hat with a muted red band draped over the lower part. Hanger triangular silhouette remains clear behind hat. A single hat, one hanger, no clothes, no stand, no background. Composition: one centered compact icon composition, front/three-quarter badge view, occupies about 78% of square canvas with clean empty margin. Design must remain readable at 32px: large simple shapes and bold smooth outline, restrained cel highlights. Actual transparent alpha background; no background color, no grid/checkerboard, no UI frame. Only requested subjects. No extra icons, no character, no text, no watermark.",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-cb0e-7373-91c0-e55e87328ab6/exec-8b78d092-b098-48b3-8e48-40f34c193fa0.png",
+      "destination": "C:/Users/limji/Desktop/game/sokoban/assets/ui/hanger.png",
+      "mode": "builtin image_gen",
+      "packing": {
+        "size": 128,
+        "extent": 108,
+        "method": "tools/package_cutout.ps1; resize/placement only; preserve generated alpha"
+      }
+    }
+  ]
+}

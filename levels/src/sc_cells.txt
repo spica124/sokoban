@@ -1,0 +1,386 @@
+; name: 셀 0,0
+; name_en: Cell 0,0
+; par: 97
+; solution: RUUUULLLLDDDLLDDRRUUUUDRRDDRRUULLLRRRUULLLLDLLURDRDDUULURRRLLDDDLLDDRUDRUUUULURRLDDDDLLURDRUUULUR
+#   ... #
+#   ### #
+### $   #
+#  $# # #
+# $ # @ #
+#   #####
+
+; name: 셀 1,0
+; name_en: Cell 1,0
+; par: 123
+; solution: LLLLLUURUULUURRRRRDDLDDDUUURUULLLLLDDRDDRRLLUULUURRRRRDDLDDLLLUUUDDDRRRRDDLRUULDULLLDLDRUURRRUULLRRDDLLLUULUURLDDRUDRRRURUL
+# ...  #
+#  ##$ #
+#  $   #
+##$##$##
+#   $  #
+# $##  #
+#  ...@#
+
+; name: 셀 2,0
+; name_en: Cell 2,0
+; par: 72
+; solution: RUDLLURRURUULDLDURRDLDDLLURDRRUULULDRRDDLUDLLURUURURDLLDDDRRULUDDLLURDRU
+###  #
+## . #
+##$..#
+# $$ #
+# @  #
+
+; name: 셀 0,1
+; name_en: Cell 0,1
+; par: 49
+; solution: RUUULRDDDLLLUURRURDLLLDDRRUDLLUURRUULDRDDDRRULDLU
+##  ###
+## $ ##
+# .*.##
+# #$  #
+#  @  #
+
+; name: 셀 1,1
+; name_en: Cell 1,1
+; par: 67
+; solution: LULUURRDULLDDRDRRURULDDLLURRLLLUURRDULLDLLDRRUURRDLRRDDLLUDRRUURRDL
+###   ####
+#  ..$$  #
+#  $$..  #
+#### @ ###
+
+; name: 셀 2,1
+; name_en: Cell 2,1
+; par: 53
+; solution: RUULLLULDLLDDRRRUDLLLUURRDRDLUUURDRRRDDLURULLLULDDURD
+###  ####
+#     $ #
+# # $#$ #
+# ...#@ #
+
+; name: 셀 0,2
+; name_en: Cell 0,2
+; par: 40
+; solution: RRUULLRRDDLLUUDDLLUURURLDLDDRRRRUULLUURD
+###  ##
+##   ##
+# .$. #
+# #$# #
+#  @  #
+
+; name: 셀 1,2
+; name_en: Cell 1,2
+; par: 149
+; solution: LLUURRRRRRDDLUULLLLLDDRRRUDLLLUURRRRRUULLLDURRRDDLLLUURRRRUULLLDURRRDDLURULDDDDLLLUURRLLDDRDDLLLUURLDDRRRUURRUUDDLURURUULDDLDDRUDLLDDLLLUURRRDDLLULUR
+###  .  #
+####$#  #
+##  . . #
+###$#$ ##
+#  . . .#
+# $#$#$ #
+#  @ #  #
+
+; name: 셀 2,2
+; name_en: Cell 2,2
+; par: 100
+; solution: RRRUULDRDLLLDLLURRLUURDRRDRULLLLDDRURURRDLLLRURRRRDLLULLDLDLLURURRRRLURDDLULLLDDRULURRRDLULLDDRULURR
+##  #  .##
+## $$*.. #
+#  @$    #
+#   ######
+
+; name: 셀 0,3
+; name_en: Cell 0,3
+; par: 57
+; solution: LDDDRRRUULULLDDDLLUUURLDDDRRUURLDDLLUUURURDRRULDLLUUURRRD
+##    ##
+## ## ##
+## .$.##
+#  $@$##
+# #.$. #
+# # ## #
+#      #
+
+; name: 셀 1,3
+; name_en: Cell 1,3
+; par: 81
+; solution: RRRUULLRRUULDRDDDLLUURLDDRRUUDDLLLLUURRRUURRDLULDRDDRDLLLUURURDDULLDDRRUULLLLDDRR
+####   #
+####$  #
+#   $ ##
+# # #  #
+# @ . .#
+
+; name: 셀 2,3
+; name_en: Cell 2,3
+; par: 68
+; solution: UURRDDDRDDLLURUUUULLDDRDULUURRDDLDRDDLUURUUULLDDRLUURRDDDUUULDLDRURD
+#   ##
+# $ ##
+#@$$##
+##$..#
+## ..#
+##   #
+
+; name: 셀 0,4
+; name_en: Cell 0,4
+; par: 97
+; solution: RRUULLLLDDLDRUUUUURRDULLDDDDDRDRRUULDURRUULLLRUURDULLLDDDDLDRRRURRDDLULLDRURRUUULLLRUULLDDDDLDRRR
+##    ##
+## #$$##
+##     #
+##$### #
+#  #@. #
+#    . #
+###  . #
+
+; name: 셀 1,4
+; name_en: Cell 1,4
+; par: 43
+; solution: URUULDURUULDURRRDLLDDDRRULULDLLDDRURURRDDLU
+#     #
+# * * #
+##. $##
+# * * #
+#     #
+# @#  #
+
+; name: 셀 2,4
+; name_en: Cell 2,4
+; par: 46
+; solution: RUDLLULUURDRRDDLLUDRRUULLDDRULUUUURRDDLRUULLDD
+##   ##
+## # ##
+# $ $ #
+#.....#
+# $$$ #
+## @ ##
+
+; name: 셀 0,5
+; name_en: Cell 0,5
+; par: 130
+; solution: RRRLLLDLLUUURRRDULLLDDDRRURRDDRRULRUULDLDURDULLLDLLURRLLUURDLDDRRURRLUULLDRDRRDRRUULDLLLUURDLDRRRURDDULLDRULLULLLDRRRRRURUULUURDDD
+######  #
+######  #
+######  #
+#    ## #
+# $$$# .#
+# $@$  .#
+#   # $.#
+#####...#
+
+; name: 셀 1,5
+; name_en: Cell 1,5
+; par: 90
+; solution: RDLDLLUURLDDRRURURURRRDDLLUDRRUULDLLLDLDLLURURRRRLLLLDDRURURRRLLURDLLDLLURRRRLLLLUURDLDRRR
+##  ######
+## $#  . #
+# $@$ .*.#
+#  $ # . #
+#   ######
+
+; name: 셀 2,5
+; name_en: Cell 2,5
+; par: 36
+; solution: RURUULUULLDDRDLRRDDLLUDRRUULULUURRDD
+##   ##
+## # ##
+# $ $ #
+#.. ..#
+# $#$ #
+## @ ##
+
+; name: 셀 0,6
+; name_en: Cell 0,6
+; par: 60
+; solution: ULLLDLLURRRRLUULULLDRRRDDLLUDRRUULULLDRDDRRRDRRULLRUDLLLDLUU
+#   #   #
+# *. .. #
+##$# #$##
+# $     #
+#   # @ #
+
+; name: 셀 1,6
+; name_en: Cell 1,6
+; par: 124
+; solution: LULLUDRRDRRULLLLUULURURRDLURRRDLDDUUULLDRDRDRDDLLULLUULURURRDDRDRDLLRUULUURDULLLDRURRDDDRDDLLURUUUULLDLDDDRLDLLURRUUURRURDDD
+###     #
+##    $ #
+##  # $##
+###$##  #
+#   ..*.#
+#   # @ #
+
+; name: 셀 2,6
+; name_en: Cell 2,6
+; par: 163
+; solution: URURUUULLDRURDDDRDLLURUUULLLLDRRURRDDDDLDLLUUUDDDRRUURUUURRDLULDDUULLDRURDULLLLDRDDDDRRURRULDLDLLUUUURURRDDDUUULLDLDDDDRRURURRDDLULUUUULLDRURDDDUULLLDDDDRRURLDLLUR
+#       #
+# $ $ $ #
+##$## ###
+## #. . #
+##  . . #
+## @ #  #
+
+; name: 셀 0,7
+; name_en: Cell 0,7
+; par: 69
+; solution: UUDDDRRUULRDDLULLUURURUULLDRDDLDDRUUDDRRULDLLUURURRUULDLDDLDDRUUUURUL
+#.   #
+#.   #
+## . #
+#  ###
+# $$ #
+# @$ #
+#    #
+
+; name: 셀 1,7
+; name_en: Cell 1,7
+; par: 150
+; solution: DRDRRUURUULLLLDRURRRDDLDDLLULUDRDRRUURUULDDDUUULLDRULLLDRRLDDRDDLUUDDRRRRULLDLLUUUDDDRRURUURUULDDDUUULLDRURDULLLLDRDDDDRRRRULDLLLUUUUURRDLULDDDUURRRDD
+#      #
+# $$   #
+##@##  #
+##$ #$##
+##.... #
+##     #
+
+; name: 셀 2,7
+; name_en: Cell 2,7
+; par: 245
+; solution: RURRRDRULLLLDLLURRRRDRRUUULULLULLDDDUUURRDDRRRRULLDRDDDLLURDRULLLLDLLURRRRDRRUUDDLLURDRULLLLLUUUURRDDDUUULLDDDDRRRLUURRULDLDDLLUUUURRDDURRRRDLLULLULLDDDDRRRDRRUUDDLLURLLLLUUUURRDDDUUULLDDDDRRRDRRUDLLULUUURRRRDLULLLDDDRDRRUUURULLRDDDDLLURDRUUURUL
+##   #####
+## # ..  #
+## # ..  #
+##$#$## ##
+# $ $   ##
+# @ #   ##
+
+; name: 셀 0,8
+; name_en: Cell 0,8
+; par: 53
+; solution: RDDRRRDDLLUDRRUULLDDRULULUULLDDRDRRULDRDRRULRULLRDDLU
+# @ ####
+# # ####
+# ...  #
+## $$$ #
+####   #
+
+; name: 셀 1,8
+; name_en: Cell 1,8
+; par: 139
+; solution: DRRUDLDDRRRUUULRDDDLLLUULUURDDLDDRRRRUUULLRRUULLDLLDDRURRLUURRDDLLLLURDRRRUULLDLDDLDDRRRRUUDDLLLLUUURRDLLDDRRRRUUUUDDDDLLLLUURDLDRRRLLUUURR
+###  .#
+#   # #
+#@$$$.#
+#   # #
+#  ## #
+#    .#
+
+; name: 셀 2,8
+; name_en: Cell 2,8
+; par: 196
+; solution: LULUURUDRRULDLLDDRDRRUUDDLLULUURRURRDLLRDDDLLULUUURLDDDRDRRUUULLURDRDDDLLULLLUUUUURRRDDLDDUURRDLRRDDDLLULRDRRUUURULLDRDDDLLULLDLLURUUUUURRRDDRDRDDDLLULLRRDRRUUUULLLDDUURRDLRRDDDLLULRDRRULRUUULLLDD
+##    ####
+## ## ####
+## # $$  #
+## #     #
+## # ##$##
+# ....$ ##
+#   # @ ##
+
+; name: 셀 0,9
+; name_en: Cell 0,9
+; par: 54
+; solution: RRDULLLDDRRDRLULLUURRRDDRRDDLURULLLDRURRDDLULUUULLLDDR
+# @  ###
+# ##$###
+#  . . #
+### $  #
+#####  #
+
+; name: 셀 1,9
+; name_en: Cell 1,9
+; par: 82
+; solution: RRUULLRRDDLLULDRRRUULULLDURRDRDDLLUULURDDDLUDLLURRDRRRUULLULDRRRDDLLULURDDLLLURDRU
+###  .##
+###.$. #
+#  $$# #
+#   @  #
+
+; name: 셀 2,9
+; name_en: Cell 2,9
+; par: 221
+; solution: LDURRURRDLDDLLLRRRUULRDDLLLLRUUURLDDDRRRUULLURDRDDLLLLDLLURUUUUURRRDDRDRDDLLLLRRRRUULULUULLLDDDDDLDRUUUUUURRRDDLDDUURRDLULDRRRDDLLLLRRRRUULULUULLLDDDDDRRRRRUURULLDRDDLLLLLUUUUURRRDDLDDUURRDLULDRRRDDLLLLRRRRUULLLDURRRDDLLL
+##    ####
+## ##$####
+## # $   #
+## # @ $ #
+## #$## ##
+# ..    ##
+# ..#   ##
+
+; name: 셀 0,10
+; name_en: Cell 0,10
+; par: 18
+; solution: LURURUULDULLDRRURD
+#    #
+#$$$ #
+#....#
+# $$.#
+#  @ #
+
+; name: 셀 1,10
+; name_en: Cell 1,10
+; par: 186
+; solution: ULULLLLDDDRRURURULLLRRDDLDLLUUULUURDDDDUURRRDDLDLLRRURURRDLUULLLLDDDRRDRRUURULDDDLLUURURULLLRRDDLDLLUUUDDDDLLURRRLUUULUURDDRRRDDLDURUULLLDDUURRRDDLDLLRRURURRDLUULLLLDDDDLLURRRLUUURRRDRDL
+##  ######
+##  ######
+##      ##
+### ## $ #
+### #. $@#
+#    .#$##
+#   #.  ##
+
+; name: 셀 2,10
+; name_en: Cell 2,10
+; note: no player-start marker in the map data; '@' position is provisional
+; par: 56
+; solution: RRUUURURRDLULDLDDRRUDLLDLLURRUULDRDDLLURUURRURRDLDLRUULD
+####   #
+##   $ #
+##$..$##
+# $.. ##
+#@  ####
+
+; name: 셀 0,11
+; name_en: Cell 0,11
+; par: 65
+; solution: URRDRRRDRRUUULLDDURRDDLUUDLLLLULLDRRRRRURRDDLULLDRULLLLDDRULURRRR
+###### . #
+#   ##$. #
+#@$$$  . #
+##  #  . #
+##  ######
+
+; name: 셀 1,11
+; name_en: Cell 1,11
+; par: 173
+; solution: LUURRLLDDRRURUUURULLDRDDDLDLLUURRDRUUULULDRRRULRRRDLLULDDDRRRDDLLULULLLDDRRURUUUULDRDDDLDLLURURLDDRURUUULURRDLDDDLLURDRUUURULDRRRULDLLDDDRDRRUULLDLUDRDRURULDLLUUUDDDRRULDLUU
+#.....  #
+#   . $ #
+#### ####
+# $     #
+# $$$ $ #
+# @ #   #
+
+; name: 셀 2,11
+; name_en: Cell 2,11
+; par: 32
+; solution: DLDRUUULDLUDRRDDLURUULLDDRRULUUR
+#.  .#
+# $$ #
+#.$@##
+# $$ #
+#.  .#

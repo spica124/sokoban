@@ -1,0 +1,353 @@
+[
+  {
+    "path": "assets/ui/arrow.png",
+    "resource": "res://assets/ui/arrow.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Up arrow; rotate about center for other directions",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 10430,
+    "partialAlphaPixels": 5640,
+    "opaquePixels": 314,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      18,
+      11,
+      109,
+      116
+    ],
+    "bytes": 16130,
+    "sha256": "1e4d32f836f04f5e0b680dd679a2b86e51954acdaea23e2a414133b55f2d82ca"
+  },
+  {
+    "path": "assets/ui/star_on.png",
+    "resource": "res://assets/ui/star_on.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Earned star",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 9511,
+    "partialAlphaPixels": 6532,
+    "opaquePixels": 341,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      10,
+      13,
+      118,
+      114
+    ],
+    "bytes": 15382,
+    "sha256": "a2554bc03227b97eb544ea1b54bb17ab08585d89411e1e960c4e90f88b887076"
+  },
+  {
+    "path": "assets/ui/star_off.png",
+    "resource": "res://assets/ui/star_off.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Unearned star",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 9465,
+    "partialAlphaPixels": 6550,
+    "opaquePixels": 369,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      9,
+      12,
+      118,
+      115
+    ],
+    "bytes": 10062,
+    "sha256": "8f6151a52d0ceab8c942f7d634121628e3622caae1e800061c8f6700d678f147"
+  },
+  {
+    "path": "assets/ui/lock.png",
+    "resource": "res://assets/ui/lock.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Locked stage, replaces emoji",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 9337,
+    "partialAlphaPixels": 6640,
+    "opaquePixels": 407,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      21,
+      10,
+      106,
+      117
+    ],
+    "bytes": 19299,
+    "sha256": "a1349ff93803467ea459e8f8a09c21f6530afa3d2e1a48b1e5a981591b9d35d9"
+  },
+  {
+    "path": "assets/sprites/player_happy.png",
+    "resource": "res://assets/sprites/player_happy.png",
+    "width": 256,
+    "height": 256,
+    "category": "character",
+    "usage": "Stage clear expression",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 37442,
+    "partialAlphaPixels": 27423,
+    "opaquePixels": 671,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      44,
+      20,
+      212,
+      235
+    ],
+    "bytes": 66110,
+    "sha256": "7593c8585780d313c7e9d35b5e0f30ffd0bcbe4b7a1f1af411531e704db9e78e"
+  },
+  {
+    "path": "assets/sprites/player_bump.png",
+    "resource": "res://assets/sprites/player_bump.png",
+    "width": 256,
+    "height": 256,
+    "category": "character",
+    "usage": "Temporary blocked-move expression",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 35931,
+    "partialAlphaPixels": 28913,
+    "opaquePixels": 692,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      40,
+      20,
+      217,
+      235
+    ],
+    "bytes": 70506,
+    "sha256": "5ca7e534df56f601c2fa533f790c37d7f436cbc822202103ed4d0c65bf95b96a"
+  },
+  {
+    "path": "assets/fx/sparkle.png",
+    "resource": "res://assets/fx/sparkle.png",
+    "width": 64,
+    "height": 64,
+    "category": "fx",
+    "usage": "Pumpkin reaches goal",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 3417,
+    "partialAlphaPixels": 606,
+    "opaquePixels": 73,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      8,
+      8,
+      55,
+      55
+    ],
+    "bytes": 2650,
+    "sha256": "51e133392367df7f6fbb4fa9c0496124cea5d0cc28ab516702729289ac7eaa2a"
+  },
+  {
+    "path": "assets/fx/dust.png",
+    "resource": "res://assets/fx/dust.png",
+    "width": 64,
+    "height": 64,
+    "category": "fx",
+    "usage": "Push dust",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 1947,
+    "partialAlphaPixels": 2149,
+    "opaquePixels": 0,
+    "maxAlpha": 254,
+    "visibleBounds": [
+      5,
+      6,
+      57,
+      57
+    ],
+    "bytes": 6179,
+    "sha256": "820489d5a9cb82780a25ae2e0df9faa2152a0dca204690b474a9493533df09b5"
+  },
+  {
+    "path": "assets/fx/leaf.png",
+    "resource": "res://assets/fx/leaf.png",
+    "width": 48,
+    "height": 48,
+    "category": "fx",
+    "usage": "Clear celebration leaf",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 1257,
+    "partialAlphaPixels": 922,
+    "opaquePixels": 125,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      5,
+      4,
+      42,
+      43
+    ],
+    "bytes": 3548,
+    "sha256": "385539686e7863f28fb796181ca5d09ba1b5c2d218a7b37c3a98d262de667239"
+  },
+  {
+    "path": "assets/ui/tier_easy.png",
+    "resource": "res://assets/ui/tier_easy.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Easy: sprout",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 11967,
+    "partialAlphaPixels": 4072,
+    "opaquePixels": 345,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      9,
+      24,
+      117,
+      103
+    ],
+    "bytes": 12512,
+    "sha256": "99134b5677d83aaceaae213fe0b0a1bfb72ba3fb99b56730a6ae91df69bf2c2c"
+  },
+  {
+    "path": "assets/ui/tier_normal.png",
+    "resource": "res://assets/ui/tier_normal.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Normal: one pumpkin",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 7545,
+    "partialAlphaPixels": 8506,
+    "opaquePixels": 333,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      10,
+      12,
+      118,
+      115
+    ],
+    "bytes": 24647,
+    "sha256": "dd39a3d745a4be73afbde9fc7c1ffc0ccb0a2da103e1727ca15ac6c6cf375df1"
+  },
+  {
+    "path": "assets/ui/tier_hard.png",
+    "resource": "res://assets/ui/tier_hard.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Hard: three pumpkins",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 8833,
+    "partialAlphaPixels": 7221,
+    "opaquePixels": 330,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      10,
+      14,
+      117,
+      112
+    ],
+    "bytes": 23086,
+    "sha256": "3b21d39ebbfb6005eab7e89bf375451389a914120df90b284fd89734e01b7ec8"
+  },
+  {
+    "path": "assets/ui/tier_expert.png",
+    "resource": "res://assets/ui/tier_expert.png",
+    "width": 128,
+    "height": 128,
+    "category": "ui",
+    "usage": "Expert: crowned pumpkin",
+    "pixelFormat": "Format32bppArgb",
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "transparentPixels": 8338,
+    "partialAlphaPixels": 7689,
+    "opaquePixels": 357,
+    "maxAlpha": 255,
+    "visibleBounds": [
+      14,
+      10,
+      114,
+      117
+    ],
+    "bytes": 23444,
+    "sha256": "e003f97b705b17b02bd1f0481038513578a280271206c35b87b7b465c908d6c7"
+  }
+]

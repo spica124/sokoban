@@ -1,0 +1,179 @@
+Godot Engine v4.7.1.stable.official.a13da4feb - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 프로젝트 초기화 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 파일 구조 스캔 중...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 전역 클래스 이름을 불러오는 중...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | GDExtensions 검증 중...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 오토로드 스크립트를 만드는 중...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 플러그인을 초기화 중...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 파일 스캔 시작 중...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started 액션 스캔 중... (9 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | stage1.png[39m[0m
+[  10% ] [90m[1m_update_scan_actions[22m | stage9.png[39m[0m
+[  20% ] [90m[1m_update_scan_actions[22m | stage24.png[39m[0m
+[  30% ] [90m[1m_update_scan_actions[22m | assets_menu.png[39m[0m
+[  40% ] [90m[1m_update_scan_actions[22m | capybara_left.png[39m[0m
+[  50% ] [90m[1m_update_scan_actions[22m | farm_clear.png[39m[0m
+[  60% ] [90m[1m_update_scan_actions[22m | farm_pause.png[39m[0m
+[  70% ] [90m[1m_update_scan_actions[22m | farm_settings.png[39m[0m
+[  80% ] [90m[1m_update_scan_actions[22m | farm_tutorial.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 애셋 (다시) 가져오는 중 (9 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  10% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  20% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  30% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  40% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  50% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  60% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  70% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[  80% ] [90m[1mreimport[22m | 다시 가져올 파일을 준비 중...[39m[0m
+[   0% ] [90m[1mreimport[22m | 다시 가져오기 전 작업을 수행 중...[39m[0m
+[   0% ] [90m[1mreimport[22m | stage1.png[39m[0m
+[   0% ] [90m[1mreimport[22m | stage1.png[39m[0m
+[  10% ] [90m[1mreimport[22m | stage9.png[39m[0m
+[  20% ] [90m[1mreimport[22m | stage24.png[39m[0m
+[  30% ] [90m[1mreimport[22m | assets_menu.png[39m[0m
+[  40% ] [90m[1mreimport[22m | capybara_left.png[39m[0m
+[  50% ] [90m[1mreimport[22m | farm_clear.png[39m[0m
+[  60% ] [90m[1mreimport[22m | farm_pause.png[39m[0m
+[  70% ] [90m[1mreimport[22m | farm_settings.png[39m[0m
+[  80% ] [90m[1mreimport[22m | farm_tutorial.png[39m[0m
+[  90% ] [90m[1mreimport[22m | 애셋 가져오기 마무리 중...[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 애셋 (다시) 가져오는 중 (9 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 다시 가져오기 후 작업을 수행 중...[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1msavepack[22m | Started 패킹 중 (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player.png-4f23acb58a70626c8cb47d1feb7e7b80.ctex[39m[0m
+[   1% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/backup_worker/player.png.import[39m[0m
+[   2% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_down.png-8058186eb998b81131a5ad414a07baad.ctex[39m[0m
+[   2% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/backup_worker/player_down.png.import[39m[0m
+[   4% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_left.png-cd2a82389b67cc0c7239c60883bccb5e.ctex[39m[0m
+[   4% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/backup_worker/player_left.png.import[39m[0m
+[   5% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_right.png-97133aefa2245d0ee05bc28b9ceeaec8.ctex[39m[0m
+[   5% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/backup_worker/player_right.png.import[39m[0m
+[   7% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_up.png-c9e309aa6957e7c2f1b7079a4683d2e0.ctex[39m[0m
+[   7% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/backup_worker/player_up.png.import[39m[0m
+[   8% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/dust.png-d9e394ecfe07993d4ca5469c8c0f1216.ctex[39m[0m
+[   8% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/fx/dust.png.import[39m[0m
+[  10% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/leaf.png-bd79889503ba7a6b2298efcf7cf64bcd.ctex[39m[0m
+[  10% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/fx/leaf.png.import[39m[0m
+[  11% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/sparkle.png-2f97fc5fa06cb3be1327eee2873918a0.ctex[39m[0m
+[  11% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/fx/sparkle.png.import[39m[0m
+[  13% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/bg.png-c77278129744470f7e66ac3bb62c4cd4.ctex[39m[0m
+[  13% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/bg.png.import[39m[0m
+[  14% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/box.png-6c9dac774147e802a8693abc123c5533.ctex[39m[0m
+[  14% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/box.png.import[39m[0m
+[  16% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/box_on_goal.png-45d0e30754bae2dffcc5c0a1701c08f1.ctex[39m[0m
+[  16% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/box_on_goal.png.import[39m[0m
+[  17% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/floor.png-6264fbe74424f0aef23944979b83713d.ctex[39m[0m
+[  17% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/floor.png.import[39m[0m
+[  19% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/goal.png-caeca320318dfd23043a8673f9ee35ed.ctex[39m[0m
+[  19% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/goal.png.import[39m[0m
+[  21% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/goal_tile.png-f4f35c0410a707e4d68b7f5b9cd8a788.ctex[39m[0m
+[  21% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/goal_tile.png.import[39m[0m
+[  22% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/logo.png-ec0d5908606a38766100cfc93f0dfde6.ctex[39m[0m
+[  22% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/logo.png.import[39m[0m
+[  24% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player.png-e1eaffe0873063c60a0d0b322e4d87d9.ctex[39m[0m
+[  24% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player.png.import[39m[0m
+[  25% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_bump.png-cc9f5d4531f281fae264cf6802f7ab73.ctex[39m[0m
+[  25% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player_bump.png.import[39m[0m
+[  27% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_down.png-6035fb02f2910bd7a49decb60a082e3f.ctex[39m[0m
+[  27% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player_down.png.import[39m[0m
+[  28% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_happy.png-c59e5887b90d12982b6632248eaf61fd.ctex[39m[0m
+[  28% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player_happy.png.import[39m[0m
+[  30% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_left.png-ae7dba020574d2cd1b2e411188bb9d70.ctex[39m[0m
+[  30% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player_left.png.import[39m[0m
+[  31% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_right.png-e58ea4b26c12b7bb0caf8faad60afbbb.ctex[39m[0m
+[  31% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player_right.png.import[39m[0m
+[  33% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/player_up.png-2d7b61086682328445bdd259869788db.ctex[39m[0m
+[  33% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/player_up.png.import[39m[0m
+[  33% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/wall.png-a2b2dda47b1ed3651589e27171e28380.ctex[39m[0m
+[  33% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/sprites/wall.png.import[39m[0m
+[  35% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/easy.txt[39m[0m
+[  36% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/exported/133200997/export-ff8ceb9b2bd5b48777d3d52e811276ab-Game.scn[39m[0m
+[  38% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex[39m[0m
+[  38% ] [90m[1msavepack[22m | 파일 저장 중: res://icon.svg.import[39m[0m
+[  40% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/src/sc_ordered.txt[39m[0m
+[  41% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/src/sc_cells.txt[39m[0m
+[  43% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/src/hard_custom.txt[39m[0m
+[  44% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/src/easy_custom.txt[39m[0m
+[  46% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/normal.txt[39m[0m
+[  47% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/hard.txt[39m[0m
+[  49% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/expert.txt[39m[0m
+[  50% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/arrow.png-037c4c84d387da566a8e39370a73460a.ctex[39m[0m
+[  50% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/arrow.png.import[39m[0m
+[  52% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/button.png-473760ec7449fb30c95f607492aecb17.ctex[39m[0m
+[  52% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/button.png.import[39m[0m
+[  53% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/button_disabled.png-d7a8bf634ba2e9ccc93dac1790d254f8.ctex[39m[0m
+[  53% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/button_disabled.png.import[39m[0m
+[  55% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/button_hover.png-4b92caaef1fac61fa5bd6833aa7648ff.ctex[39m[0m
+[  55% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/button_hover.png.import[39m[0m
+[  56% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/button_pressed.png-27151f192e8b65dcdd8e3141b112a622.ctex[39m[0m
+[  56% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/button_pressed.png.import[39m[0m
+[  58% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/lock.png-f0a8013fcf7f23a1a85e9ff474d76152.ctex[39m[0m
+[  58% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/lock.png.import[39m[0m
+[  60% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/panel.png-3b9543c06792d57fdee8f168520a6a81.ctex[39m[0m
+[  60% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/panel.png.import[39m[0m
+[  61% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/star_off.png-d498ce5f26db2740f69720c3b670da1c.ctex[39m[0m
+[  61% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/star_off.png.import[39m[0m
+[  63% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/star_on.png-537893d17f1b8b276ab385bb3539521d.ctex[39m[0m
+[  63% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/star_on.png.import[39m[0m
+[  64% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/tier_easy.png-a6abb9af32df0e685290d0c63c82751f.ctex[39m[0m
+[  64% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/tier_easy.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/tier_expert.png-872c6a056460ac9861042ec6fe323cd8.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/tier_expert.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/tier_hard.png-1651d1b3774aead8693e80438f82659e.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/tier_hard.png.import[39m[0m
+[  68% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/tier_normal.png-e071d785197ea31b165e65e4cb738b81.ctex[39m[0m
+[  68% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/ui/tier_normal.png.import[39m[0m
+[  69% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/imported/icon.png-b6a7fb2db36edd3d95dc42f1dc8c1c5d.ctex[39m[0m
+[  69% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/icon.png.import[39m[0m
+[  71% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/exported/133200997/export-ebb7fe26733f6b444c236fae889db355-DifficultySelect.scn[39m[0m
+[  72% ] [90m[1msavepack[22m | 파일 저장 중: res://levels/src/boxoban_rated.json[39m[0m
+[  74% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/UITheme.gdc[39m[0m
+[  75% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/UIKit.gdc[39m[0m
+[  77% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Transition.gdc[39m[0m
+[  79% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/StageSelect.gdc[39m[0m
+[  80% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/SettingsPanel.gdc[39m[0m
+[  82% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/MainMenu.gdc[39m[0m
+[  83% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Levels.gdc[39m[0m
+[  85% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Juice.gdc[39m[0m
+[  86% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Global.gdc[39m[0m
+[  88% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Game.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/DifficultySelect.gdc[39m[0m
+[  91% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/DevTools.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Board.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Assets.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/exported/133200997/export-1565a005d0de6cf596cb90953e6fc7ac-StageSelect.scn[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/exported/133200997/export-23c8b2a48d59a0cd018bd8ad5ce7794c-MainMenu.scn[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scenes/Game.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scenes/DifficultySelect.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/UITheme.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/UIKit.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Transition.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/StageSelect.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/SettingsPanel.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/MainMenu.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Levels.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Juice.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Global.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Game.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/DifficultySelect.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/DevTools.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Board.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scripts/Assets.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scenes/StageSelect.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://scenes/MainMenu.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/global_script_class_cache.cfg[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://assets/icon.png[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://.godot/uid_cache.bin[39m[0m
+[  97% ] [90m[1msavepack[22m | 파일 저장 중: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m

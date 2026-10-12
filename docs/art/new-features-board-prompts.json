@@ -1,0 +1,44 @@
+{
+  "mode": "built-in image_gen; original generated alpha preserved; resizing/placement only",
+  "assets": [
+    {
+      "key": "green",
+      "path": "assets/sprites/box_c1.png",
+      "refs": [
+        "assets/sprites/player.png",
+        "assets/sprites/box.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark. Create a single dark-green kabocha squash game sprite. Image 1 is style reference only: do not include capybara. Image 2 is silhouette, angle, scale and stroke reference. A round dark-green kabocha squash with a SHORT BROWN stem, same squat ribbed size and slight top-down angle as the reference orange pumpkin, a few subtle lighter green rib stripes, clean large readable regions. Centered in square canvas, squash fills about 88%, transparent background with real alpha. No ground, no platform, no basket, no other objects, no glow.",
+      "source": "C:\\Users\\limji\\.codex\\generated_images\\01a07602-6a2b-7190-9f6e-7ba4f7d567df\\exec-9cfb39ba-1861-4635-977c-df7b989ff36d.png",
+      "extent": 225
+    },
+    {
+      "key": "ice",
+      "path": "assets/sprites/ice.png",
+      "refs": [
+        "assets/sprites/player.png",
+        "assets/sprites/floor.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark. A thin square sheet of PALE BLUE TRANSLUCENT ICE seen directly from above: a flat game floor overlay filling the entire square tile to all four edges, seamless tileable. Input 1 is outline/style reference only, input 2 shows the floor it will later be placed over; DO NOT include the character or wooden floor. Entire pale blue ice film has genuine partial alpha translucency (roughly 40% opacity) so an arbitrary wooden floor will show through when composited. Only a few small white diagonal glints on the thin translucent blue film. No thick borders, no frame, no cube, no isometric angle, no opaque colored backdrop, no ground or shadow, no checkerboard painted in image. Transparent PNG background; real partially transparent interior throughout the tile. The sheet reaches all edges, no isolated ice block.",
+      "source": "C:\\Users\\limji\\.codex\\generated_images\\01a07602-6a2b-7190-9f6e-7ba4f7d567df\\exec-b3c2ef62-d760-4b2d-b7a1-263b89461334.png",
+      "extent": 256
+    },
+    {
+      "key": "oneway",
+      "path": "assets/sprites/oneway.png",
+      "refs": [
+        "assets/sprites/player.png"
+      ],
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark. One bold CREAM COLORED ARROW pointing straight UP, painted on a game floor like a clean stencil, thick dark-brown outline, flat overhead view. Single simple chunky straight shaft and broad triangular arrowhead with very subtly rounded corners. Cream flat interior with a small quiet highlight, centered in square canvas, about 70% of the tile. This is a painted floor mark, not a wooden sign or wood carving. Transparent background with real alpha, no floor shown, no platform, no signboard, no post, no border or shadow. Input capybara is stroke and palette reference only, no character.",
+      "source": "C:\\Users\\limji\\.codex\\generated_images\\01a07602-6a2b-7190-9f6e-7ba4f7d567df\\exec-c1dd2790-e849-40da-840c-f9744068be88.png",
+      "extent": 179
+    },
+    {
+      "key": "goal",
+      "path": "assets/sprites/box_on_goal_c1.png",
+      "source": "C:\\Users\\limji\\.codex\\generated_images\\01a07602-6a2b-7190-9f6e-7ba4f7d567df\\exec-721a25cc-ce72-4200-ac72-e5a5df03c660.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied green squash game sprite. Keep the exact same green kabocha silhouette, short brown stem, rib stripes, shading, camera angle, scale and center position. Only add a subtle warm golden rim light around its outline, a soft restrained golden glow, and one tiny four-point cream-gold sparkle near the upper-right of the squash, to show it has arrived on the goal. Do not enlarge, move, redraw or recolor the squash. Keep true transparent background. No floor, no basket, no text, no scene, no added objects. Clean cozy 2D vector cartoon thick dark-brown outline. Single sprite in square canvas.",
+      "extent": 240
+    }
+  ]
+}

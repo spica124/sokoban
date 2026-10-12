@@ -1,0 +1,416 @@
+; name: 한 방향 문
+; name_en: One-Way Door
+; rules: oneway
+; oneway: 4,1,R
+; par: 4
+; solution: RRRR
+#########
+#@ $  . #
+#########
+
+; rules: oneway
+; oneway: 3,2,U
+; par: 28
+; solution: LLLLUURUUUUULDULRDRDDDDLDDRU
+##########
+# . $ ####
+#   $  ###
+####. ####
+####   ###
+#####  ###
+#### .####
+###  $ ###
+#  .   $@#
+##########
+
+; rules: oneway
+; oneway: 5,6,D
+; par: 46
+; solution: LLLRUUUUUURDLDDDDDRRULDLLLLULULDRRDRRRUUUUURUL
+##########
+#####.  ##
+###### $##
+#####  .##
+###### ###
+#  ### ###
+#$  #  $ #
+#..    $@#
+##########
+
+; rules: oneway
+; oneway: 3,2,D
+; par: 51
+; solution: LDLLUULUURRRRRRDLLULLDDLDDRRURUURULDDDLDLLUULUURRDR
+#########
+#   .   #
+# .  .$ #
+#   #$###
+##$.$@###
+##   ####
+#########
+
+; rules: oneway
+; oneway: 3,3,L
+; par: 61
+; solution: LLLRULLULDDDDURURRRRULDLLLDLDDUUURRRRULDLLLUURDLDRRRULDLLUURD
+########
+# .#####
+# $#####
+# $  $ #
+# .$ .@#
+#  #####
+# ######
+#  #####
+#. #####
+########
+
+; rules: oneway
+; oneway: 1,3,D
+; par: 46
+; solution: UUURURURRLLULLDRRDLDLDDRUUURUULLDRDRULULDDRURR
+##########
+# ########
+#  .######
+#   $..  #
+# $ ##   #
+#. ####  #
+# $####  #
+#$ ##### #
+#@########
+##########
+
+; rules: oneway
+; oneway: 2,4,D
+; par: 47
+; solution: LLDLLULLDDDDDDRURLLURDDRRULLULUUUURRDRRULDLLULD
+#########
+#  .  $@#
+#   $ ###
+#.#######
+#  ######
+#  .. ###
+# $$ ####
+#    ####
+#########
+
+; rules: oneway
+; oneway: 3,2,L
+; par: 53
+; solution: LDLRULLRDDLURUULLLDDRRDRURURULLLDLRRDDLURULRURRDLULLL
+########
+### ####
+#.   $ #
+#.. .$@#
+# $ $ ##
+###  ###
+########
+
+; rules: oneway
+; oneway: 7,2,D
+; par: 65
+; solution: RRDLRRDRRULLULLDRURDRDDLLDURRUULDUUURDLDDRRULDLURULDLLULLDRRRRURD
+#########
+## ##  ##
+# @ . $ #
+#  $  $ #
+##### . #
+#### . ##
+####$ ###
+####.  ##
+#####  ##
+#########
+
+; rules: oneway
+; oneway: 2,3,U
+; par: 60
+; solution: LDLDLLDDRULURLUUUUURRDLURRRDLLULLDDDDDRRLLDUUUUUURRDLULDDDDD
+#######
+#     #
+# $ $ #
+#  ####
+# ## @#
+# #  ##
+#  $.##
+#.$. ##
+#. ####
+#######
+
+; rules: oneway
+; oneway: 7,5,D
+; par: 56
+; solution: DDRDULUURDLDDRRDDLLDDLRUUUURDURDDLULDDUUUUURDDDLDRUUUUUL
+##########
+# ##.@ ###
+#  ## $###
+# ###  ###
+#  ## $  #
+#  # $  ##
+# ###  .##
+# ### ####
+#  .$.####
+##########
+
+; rules: oneway
+; oneway: 7,4,U
+; par: 45
+; solution: RDRRUURUULDDRURDLUUURDLLDDRDDLUUDDLLURRDRUUUU
+##########
+####### ##
+#######. #
+######  $#
+######. .#
+###  #$$ #
+###@$   .#
+#        #
+##########
+
+; rules: oneway
+; oneway: 3,3,L
+; par: 70
+; solution: LDRRLLLDLLLURRRRURRDDLLLLULLDDDDDDRRRRLLLLUUUUUURRRDLLULDDUURRRDRRRULL
+##########
+# ### @ ##
+# $ .$$ .#
+#       ##
+# ########
+#.########
+#  #######
+# #####  #
+#  $  .  #
+##########
+
+; rules: oneway
+; oneway: 5,7,U
+; par: 52
+; solution: LLDDUULLDRDRDDUULUURDDDRDDLRUURULDLULUURRDDLUDRDUUUL
+########
+## #####
+# .  @##
+# $$$###
+##  $ ##
+###   ##
+#  .. ##
+# .    #
+########
+
+; rules: oneway
+; oneway: 4,1,L
+; par: 38
+; solution: LLUURRRURRRDDDLLLLLRRRRUUDDDUUULURDLLL
+##########
+##      .#
+## .$  $ #
+## ####  #
+# . @ $  #
+#    ##$ #
+#######. #
+######## #
+##########
+
+; rules: oneway
+; oneway: 5,2,L
+; par: 31
+; solution: LULLDLLLRRRURRDLLURRUULDLDRDRUU
+##########
+## ### .##
+##    $  #
+##  . $ ##
+#. $.  $@#
+#     #  #
+##########
+
+; rules: oneway
+; oneway: 2,1,R;5,4,L
+; par: 61
+; solution: ULLDLLLLURDRRRURRDLLLLLULLUUURRRDDDLDRRRULDLUDRRURRDLLLRULLUU
+##########
+#   . ####
+#  # ##  #
+# ## # # #
+#  $   $ #
+#.. .$ $@#
+######## #
+##########
+
+; rules: oneway
+; oneway: 5,7,R
+; par: 43
+; solution: UUUUDDLLDDLLLUURRLLDDRURULDLUUDRRRRLLLULUUU
+#########
+#.#######
+#  ######
+# ####. #
+# #### ##
+#  ###  #
+#    $.##
+# $$. $##
+#    #@##
+#########
+
+; rules: oneway
+; oneway: 5,2,L;7,3,R
+; par: 50
+; solution: URRURRDLLLRURULLLDDRRURRRULULDLDDLLLLDDRULUURRRDLD
+##########
+######  ##
+###    $ #
+#   $..  #
+# . $    #
+# $@ ##  #
+#  .######
+##########
+
+; rules: oneway
+; oneway: 3,3,L
+; par: 60
+; solution: LLLLURRUULDDUULUURDULUURDLDDRDRDDLLUDRRUULDLDRUUULUURDDDDLUU
+#######
+#   ###
+# $ ###
+#.  ###
+# $####
+#   ###
+# $ ###
+#$..###
+# .  @#
+#######
+
+; rules: oneway
+; oneway: 2,4,L;5,4,U
+; par: 45
+; solution: LLDLDLLURURRLLDDRURURRDLLLDLLURURRDLULDRRRRUL
+##########
+# ###  ###
+# .  .$@.#
+# $$  $  #
+#  .  ####
+##########
+
+; rules: oneway
+; oneway: 5,3,D
+; par: 82
+; solution: ULLDDRDULUURDURRUULDRDLDLLDDRULUURRURRDDLULLLDDRULURRUURRDDDLLULLDDRURUUURRDLRDDLU
+#######
+###   #
+# #.. #
+# .$  #
+# $@$ #
+#  ####
+# $ ###
+# . ###
+# #####
+#######
+
+; rules: oneway
+; oneway: 4,4,L
+; par: 67
+; solution: UUURDLDDRRRRUUUURRDRDDDDLLULLLLLUURRDULLDDRRRRUUURRRDDLLDURRUULDRDL
+##########
+#####    #
+#  ##  $ #
+# $ # #  #
+# .$ ..  #
+#@ $     #
+######.  #
+##########
+
+; rules: oneway
+; oneway: 3,8,R;6,8,R
+; par: 95
+; solution: LDDRDLULDDLDLLDDLUDRRRRRRULULRULUURRDLDDLLULLDDDRRRURUULLDLURRRDLULLLDDUURRRDLULLDDLDRRLUUURRDL
+#########
+###### @#
+######$##
+#####   #
+#####.  #
+##     ##
+#..   $##
+#$ ## $ #
+#   .   #
+#########
+
+; rules: oneway
+; oneway: 4,4,R
+; par: 63
+; solution: RRRRRDLDRDDLURULULULLDLDDRDRURRUULLLRRRDDLLUDLLURUULDURRRDLDDRU
+##########
+#####  ###
+#  @     #
+##  . .$ #
+###.     #
+###  $ $ #
+####  .$ #
+#######  #
+##########
+
+; rules: oneway
+; oneway: 4,4,R;6,5,R
+; par: 54
+; solution: DLDLLUURDDDUURRULDDDDRRUUDRRULULLUULLLDDDRDRRRURUULLLD
+##########
+#    #####
+# .$@  ###
+#  $ .  ##
+#  .  $  #
+##   $   #
+##.   ## #
+######## #
+####     #
+##########
+
+; rules: oneway
+; oneway: 8,1,D
+; par: 54
+; solution: UURUUUUURDRDLDLDDLDDRURUURUULLLDRDRDDLLUURRDLUULURRRDL
+##########
+#        #
+#      $ #
+####.    #
+####. .  #
+####   $ #
+#####.  ##
+#### $$  #
+#####@ ###
+##########
+
+; rules: oneway
+; oneway: 5,2,U
+; par: 105
+; solution: RRRRRRRDDDDLURULRUULLLLLLDDDRRRULRUULDURRRRDDLLRRUULLLLDDLLUURRRRRRDDLLLUULLLDDDLURUURRRRRRDDLLLLLRUURRRD
+##########
+#@       #
+#. #$ #$ #
+# . $  . #
+#   . #$ #
+#######  #
+##########
+
+; rules: oneway
+; oneway: 4,8,R
+; par: 75
+; solution: DRURULDDRRRURUUUUUULDDRDDDDLLLDLLURDRULUURRRLLLDDRUDRRRUUUULURDDDDDLLLULURR
+##########
+#####  ###
+#####$ .##
+#####  ###
+#####. ###
+## $ . ###
+#.  ##  ##
+#@$ $  ###
+#        #
+##########
+
+; rules: oneway
+; oneway: 5,2,R;5,8,U
+; par: 96
+; solution: DLLLLRRRUURUUUULLDDRLUURRDDDDDULURUUULLDDLDRUUURRDDLDLUDRRDDLDDRULUURULDDDRUDLLLLULLDRRRRRUUUULU
+##########
+##### .  #
+#####  # #
+##### $$ #
+##### .$ #
+#    ## .#
+#    ## @#
+#    $  .#
+#     #  #
+##########

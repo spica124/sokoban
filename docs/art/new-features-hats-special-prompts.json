@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-06",
+  "assets": [
+    {
+      "file": "assets/sprites/hat_chef.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-826e-7f50-bebc-b0cc74d62220/exec-30f625d5-a986-41d8-b801-b31e1c51a7af.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, transparent background. Use case: stylized-concept. Input image: STYLE REFERENCE ONLY, the existing capybara sprite. Create a single standalone wearable HAT ONLY, absolutely NO animal, character, face, head, mannequin, floor, background, or cast shadow. Match the reference's warm soft cel shading, clean thick dark brown outline, rounded friendly silhouette, and restrained texture. Front view with very slight view of the top only where necessary to recognize the hat. The complete single hat is centered on transparent square canvas, plenty of padding around all edges, horizontal bottom wearing brim. Intended as a 256x256 game overlay after sizing; lower midpoint will be aligned to x128 y200. No floating sparkles, decorations outside the hat, or second object. Subject: a puffy white chef toque. Warm ivory-cream white soft rounded cloudlike top with three broad puffs, short clean fitted cream band at bottom, subtle warm beige shadows. A squat broad silhouette rather than a tall towering chef hat. Bottom band front-facing and horizontally centered, no text or logo.",
+      "tool": "builtin image_gen",
+      "reference": "assets/sprites/player.png",
+      "transparent_background": true,
+      "packaging": {
+        "tool": "tools/package_hat.ps1",
+        "size": [
+          256,
+          256
+        ],
+        "maxWidth": 223,
+        "maxHeight": 166,
+        "bottom": 200,
+        "description": "Resize and transparent-canvas placement only; source alpha preserved. Nominal width 223 keeps bicubic fringe within 224 visible pixels."
+      }
+    },
+    {
+      "file": "assets/sprites/hat_beanie.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-826e-7f50-bebc-b0cc74d62220/exec-d1956594-2f5a-4e8e-aad6-c3a21c983129.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, transparent background. Use case: stylized-concept. Input image: STYLE REFERENCE ONLY, the existing capybara sprite. Create a single standalone wearable HAT ONLY, absolutely NO animal, character, face, head, mannequin, floor, background, or cast shadow. Match the reference's warm soft cel shading, clean thick dark brown outline, rounded friendly silhouette, and restrained texture. Front view with very slight view of the top only where necessary to recognize the hat. The complete single hat is centered on transparent square canvas, plenty of padding around all edges, horizontal bottom wearing brim. Intended as a 256x256 game overlay after sizing; lower midpoint will be aligned to x128 y200. No floating sparkles, decorations outside the hat, or second object. Subject: a red knit beanie with a cream pom-pom. Cozy muted brick-red rounded knitted cap, thick folded red brim at bottom, large fluffy cream pom-pom attached directly to the top. Simple broad knit rib hints so readable at small game sprite size, not dense stitch noise. Bottom wearing band horizontally centered.",
+      "tool": "builtin image_gen",
+      "reference": "assets/sprites/player.png",
+      "transparent_background": true,
+      "packaging": {
+        "tool": "tools/package_hat.ps1",
+        "size": [
+          256,
+          256
+        ],
+        "maxWidth": 224,
+        "maxHeight": 166,
+        "bottom": 200,
+        "description": "Resize and transparent-canvas placement only; source alpha preserved."
+      }
+    },
+    {
+      "file": "assets/sprites/hat_grad.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-826e-7f50-bebc-b0cc74d62220/exec-0af04845-1571-4911-aa07-8c8a91393a3b.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, transparent background. Use case: stylized-concept. Input image: STYLE REFERENCE ONLY, the existing capybara sprite. Create a single standalone wearable HAT ONLY, absolutely NO animal, character, face, head, mannequin, floor, background, or cast shadow. Match the reference's warm soft cel shading, clean thick dark brown outline, rounded friendly silhouette, and restrained texture. Front view with very slight view of the top only where necessary to recognize the hat. The complete single hat is centered on transparent square canvas, plenty of padding around all edges, horizontal bottom wearing brim. Intended as a 256x256 game overlay after sizing; lower midpoint will be aligned to x128 y200. No floating sparkles, decorations outside the hat, or second object. Subject: a black graduation mortarboard with a gold tassel. Front view with broad diamond-shaped dark charcoal black mortarboard top, short rounded black cap underneath with a clearly horizontal lower wearing brim. A single TINY SHORT gold tassel attached at the top and draped down one side: its tip must end AT THE SAME HEIGHT as the black cap lower brim, absolutely no dangling cord below the brim. Warm brown outlines and restrained warm reflections, gold tassel tiny, no other objects.",
+      "tool": "builtin image_gen",
+      "reference": "assets/sprites/player.png",
+      "transparent_background": true,
+      "packaging": {
+        "tool": "tools/package_hat.ps1",
+        "size": [
+          256,
+          256
+        ],
+        "maxWidth": 224,
+        "maxHeight": 166,
+        "bottom": 200,
+        "description": "Resize and transparent-canvas placement only; source alpha preserved."
+      }
+    },
+    {
+      "file": "assets/sprites/hat_crown.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-826e-7f50-bebc-b0cc74d62220/exec-ea1bceea-3b9d-4fb8-a407-5a87996087dd.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. No text, no watermark, transparent background. Use case: stylized-concept. Input image: STYLE REFERENCE ONLY, the existing capybara sprite. Create a single standalone wearable HAT ONLY, absolutely NO animal, character, face, head, mannequin, floor, background, or cast shadow. Match the reference's warm soft cel shading, clean thick dark brown outline, rounded friendly silhouette, and restrained texture. Front view with very slight view of the top only where necessary to recognize the hat. The complete single hat is centered on transparent square canvas, plenty of padding around all edges, horizontal bottom wearing brim. Intended as a 256x256 game overlay after sizing; lower midpoint will be aligned to x128 y200. No floating sparkles, decorations outside the hat, or second object. Subject: a small gold crown with red gems. Exactly ONE crown. Front view of a broad squat golden crown with three rounded triangular points tipped with tiny gold balls, warm straw-yellow gold body, subtle orange shading, a centered red ruby and two smaller red gems in the lower band. Clean friendly chunky silhouette, simple restrained shine without external sparkles. Horizontal rounded wearing band at bottom.",
+      "tool": "builtin image_gen",
+      "reference": "assets/sprites/player.png",
+      "transparent_background": true,
+      "packaging": {
+        "tool": "tools/package_hat.ps1",
+        "size": [
+          256,
+          256
+        ],
+        "maxWidth": 223,
+        "maxHeight": 166,
+        "bottom": 200,
+        "description": "Resize and transparent-canvas placement only; source alpha preserved. Nominal width 223 keeps bicubic fringe within 224 visible pixels."
+      }
+    }
+  ]
+}

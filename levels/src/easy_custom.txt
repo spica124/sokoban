@@ -1,0 +1,303 @@
+; name: 첫 걸음
+; name_en: First Steps
+; par: 1
+; solution: R
+#######
+#     #
+# @$. #
+#     #
+#######
+
+; name: 두 개의 상자
+; name_en: Two Crates
+; par: 7
+; solution: RRLLDRR
+########
+#      #
+# @$ . #
+#  $ . #
+#      #
+########
+
+; name: 모퉁이
+; name_en: Around the Corner
+; par: 9
+; solution: RRRLLDDRR
+########
+#   #  #
+# @ $ .#
+#   #  #
+#   $ .#
+#      #
+########
+
+; name: 나란히
+; name_en: Side by Side
+; par: 11
+; solution: ULDLURRRDRU
+#######
+#. . .#
+# $$$ #
+#  @  #
+#     #
+#######
+
+; name: 십자로
+; name_en: Crossroads
+; par: 11
+; solution: DURUULDRDLL
+  #####
+  #   #
+###$  #
+#. @$.#
+###$  #
+  #.  #
+  #####
+
+; name: 열쇠 구멍
+; name_en: Keyhole
+; par: 14
+; solution: DRURDULLLULDLU
+########
+#.     #
+# $ #  #
+#   @  #
+#  # $ #
+#     .#
+########
+
+; name: 미로
+; name_en: Maze
+; par: 17
+; solution: RRURUUDDDRRUUUULL
+########
+#  .   #
+# ##$# #
+# #  # #
+# # $. #
+#@     #
+########
+
+; name: 가운데
+; name_en: Center Piece
+; par: 18
+; solution: ULULDDRDLRRRRURULL
+#########
+#   #   #
+# $ . $ #
+#   @   #
+#.  $  .#
+#       #
+#########
+
+; name: 바람개비
+; name_en: Pinwheel
+; par: 20
+; solution: LDLLUURRURDDRDRRUULL
+  #######
+  #     #
+###  #  #
+# $ . $ #
+# .$@$. #
+#   .   #
+###  #  #
+  #     #
+  #######
+
+; name: 긴 복도
+; name_en: Long Hallway
+; par: 21
+; solution: DDLULURRRLLURRLLLURRR
+############
+#    .     #
+# $$ . ### #
+#  @ .     #
+# $  #     #
+#          #
+############
+
+; name: 네 모서리
+; name_en: Four Corners
+; par: 23
+; solution: ULDDULURRRRDRUDLDLDRLLL
+########
+#.    .#
+# $  $ #
+#  @   #
+# $  $ #
+#.    .#
+########
+
+; name: 세 갈래
+; name_en: Three Ways
+; par: 23
+; solution: RRRUULULDLDLLLUURRDLULD
+#########
+#   #   #
+# $ $ $ #
+#. . .# #
+#   @   #
+#########
+
+; name: 굴
+; name_en: The Burrow
+; par: 24
+; solution: RRUUUULLLDDURURDRDDDLLUL
+ ######
+ #    #
+##$$  ##
+#  #.  #
+#.  #  #
+#  @$ .#
+##  ####
+ ####
+
+; name: 삼각형
+; name_en: Triangle
+; par: 27
+; solution: UUUDDDLLLURRDRUUDDRRRULLDLU
+ #######
+ #  .  #
+ # #.# #
+##  .  ##
+# $ $ $ #
+#   @   #
+#########
+
+; name: 회전
+; name_en: Rotation
+; par: 28
+; solution: RRUUULLDDURURDDRDDLLULRDRRUL
+  ######
+  #    #
+### $  #
+#  $#  #
+# .@.  #
+#  .$  #
+####   #
+   #####
+
+; name: 좁은 길
+; name_en: Narrow Path
+; par: 30
+; solution: LLUDRRRUUULLDLURRRURRDLLLLLRUL
+#########
+#.  #   #
+#.  $ $ #
+#.  #   #
+##$##   #
+#   @   #
+#       #
+#########
+
+; name: 대칭
+; name_en: Symmetry
+; par: 33
+; solution: UUURDDDRDRULLLDRRURRDRRULLRUURULL
+#########
+#   .   #
+# $ # $ #
+#  #.#  #
+#@ $.$  #
+#   .   #
+#########
+
+; name: 밀실
+; name_en: Locked Room
+; par: 36
+; solution: UULUURLDDRRULDLUDRDDLLLUUUUUUURRRDDD
+#########
+#       #
+# ##$## #
+# #   # #
+# #.$.# #
+# # . # #
+# #   # #
+# ##$## #
+#   @   #
+#########
+
+; name: 계단
+; name_en: Staircase
+; par: 42
+; solution: DDRDDDRRRRRULUURUULLLULDDURRRDDDDLRRDLLULL
+  ####
+###  ####
+#@  $   #
+# # ##  #
+#  .  $ #
+##  #  ##
+ #.   $ #
+ #  .   #
+ #      #
+ ########
+
+; name: 감시탑
+; name_en: Watchtower
+; par: 42
+; solution: URRRDLULDDLDRRDRRUUURULLRRUUULLDRURDDULDDR
+ ####
+ #  #####
+ #  #   #
+ #  # $ #
+##  ##$ ##
+#   .   .#
+# @ $ .  #
+##  ##$###
+ #   .  #
+ #      #
+ ########
+
+; name: 창고
+; name_en: Warehouse
+; par: 43
+; solution: LUULDLULDDURRRDLRRRULLLLDDLURUULDDDRDLRRDLL
+ ######
+ #    ###
+ # $$ $ #
+##    @ #
+#.  ##  #
+#.   #  #
+#.   ####
+######
+
+; name: 안뜰
+; name_en: Courtyard
+; par: 44
+; solution: RRRUULUULLDUUURRRDURRDDLLLDDRULURDDDDLLLLUUR
+ ########
+ #      #
+ # ##$# #
+ # .  . #
+##$#  # ##
+#  . $   #
+# ### ## #
+# @      #
+##########
+
+; name: 두 방
+; name_en: Two Rooms
+; par: 60
+; solution: LULUURDDLDRRRRRURRDLDLULLUULULDDLDRRRRRDRUUDLLLUULDLDRRRRDRU
+##########
+#    #   #
+# $$ # . #
+#  $ #.. #
+#  @     #
+#  ###   #
+#        #
+##########
+
+; name: 세 줄
+; name_en: Three Lines
+; par: 78
+; solution: ULLLUURDDLDRRRRRDRUUUUDDDLLLUUUUULLDDDDLDRRRRRRDRUUUDDLLLLUUUULDDDLDRRRRRRDRUU
+###########
+#    #    #
+# $  # .  #
+# $  #  . #
+# $  #   .#
+#    #    #
+#   @     #
+#         #
+###########

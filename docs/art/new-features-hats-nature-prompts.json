@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-06",
+  "mode": "built-in image_gen",
+  "reference": "C:/Users/limji/Desktop/game/sokoban/assets/sprites/player.png",
+  "packaging": {
+    "tool": "tools/package_hat.ps1",
+    "size": [
+      256,
+      256
+    ],
+    "maxVisibleWidth": 224,
+    "maxVisibleHeight": 166,
+    "bottom": 200,
+    "operation": "Resize and position only; preserve generator's original alpha.",
+    "arguments": {"MaxWidth": 223, "MaxHeight": 166, "Bottom": 200},
+    "notes": "Width argument 223 leaves room for bicubic alpha edge pixels so the final visible bounds stay at or below 224."
+  },
+  "assets": [
+    {
+      "file": "assets/sprites/hat_straw.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-366e-7b71-9fb1-d362dbb27744/exec-889d580a-156c-4b18-b803-329846bb0a1b.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. Top-down view for tiles, no text, no watermark, centered, transparent background unless the item says \"fully filling the tile\".\nAsset: standalone wearable hat sprite, a small straw sun hat with a red band. Front view (not top-down), matching the attached capybara's warm hand-drawn outline and soft cel-shaded cartoon style. The reference is STYLE ONLY: draw only the accessory, no capybara, no head, no face, no wearer, no pedestal and no floor shadow. Single isolated accessory, horizontal wearing base centered underneath, fully visible, simple readable silhouette, no extra floating pieces. Composition: square transparent canvas; keep the complete accessory within the central 84% width and 64% height, with the bottom center of the hat around x50%, y78%. Real transparent alpha background, not a checkerboard illustration. No text or watermark.",
+      "notes": "Generated once; visually inspected as isolated accessory and final 256px PNG."
+    },
+    {
+      "file": "assets/sprites/hat_mandarin.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-366e-7b71-9fb1-d362dbb27744/exec-23fe1583-bc59-404b-91b4-80e74a70faa1.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. Top-down view for tiles, no text, no watermark, centered, transparent background unless the item says \"fully filling the tile\".\nSubject: ONE SINGLE ordinary whole mandarin orange fruit with ONE small green leaf and a short stem, viewed from the front. This fruit will be balanced on a capybara's head in the game, but draw ONLY THE FRUIT. No actual hat structure, no bonnet, no brim, no knit fabric, no base, no supporting cap, no cream rim and absolutely no second orange. One naturally round slightly flattened orange, warm orange peel with a few subtle pores, small attached green leaf. Match reference capybara's bold dark-brown outline, soft cel shading and warm cartoon palette. Reference image is for STYLE ONLY. Do not draw any character, face, head, body or supporting object. Isolated in a square canvas on real transparent alpha, no shadow, no text, no watermark. Center the fruit horizontally with its lowest point near y78%, blank space below; fully visible and not cropped.",
+      "notes": "First result depicted a mandarin-shaped cloth hat; regenerated to one single fruit. Only the second result was saved."
+    },
+    {
+      "file": "assets/sprites/hat_flower.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-366e-7b71-9fb1-d362dbb27744/exec-e51788b8-dfe4-44a7-a827-8d9decf89212.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. Top-down view for tiles, no text, no watermark, centered, transparent background unless the item says \"fully filling the tile\".\nAsset: standalone wearable hat sprite, a ring of small pastel flowers. Front view (not top-down), matching the attached capybara's warm hand-drawn outline and soft cel-shaded cartoon style. The reference is STYLE ONLY: draw only the accessory, no capybara, no head, no face, no wearer, no pedestal and no floor shadow. Single isolated accessory, horizontal wearing base centered underneath, fully visible, simple readable silhouette, no extra floating pieces. Composition: square transparent canvas; keep the complete accessory within the central 84% width and 64% height, with the bottom center of the hat around x50%, y78%. Real transparent alpha background, not a checkerboard illustration. No text or watermark.",
+      "notes": "Generated once; visually inspected as isolated accessory and final 256px PNG."
+    },
+    {
+      "file": "assets/sprites/hat_leaf.png",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-366e-7b71-9fb1-d362dbb27744/exec-ca11a566-0805-4976-b098-8a47c3ce747b.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. Top-down view for tiles, no text, no watermark, centered, transparent background unless the item says \"fully filling the tile\".\nAsset: standalone wearable hat sprite, a single green leaf worn as a tiny hat. Front view (not top-down), matching the attached capybara's warm hand-drawn outline and soft cel-shaded cartoon style. The reference is STYLE ONLY: draw only the accessory, no capybara, no head, no face, no wearer, no pedestal and no floor shadow. Single isolated accessory, horizontal wearing base centered underneath, fully visible, simple readable silhouette, no extra floating pieces. Composition: square transparent canvas; keep the complete accessory within the central 84% width and 64% height, with the bottom center of the hat around x50%, y78%. Real transparent alpha background, not a checkerboard illustration. No text or watermark.",
+      "notes": "Generated once; visually inspected as isolated accessory and final 256px PNG."
+    }
+  ],
+  "discarded": [
+    {
+      "file": "hat_mandarin",
+      "source": "C:/Users/limji/.codex/generated_images/01a10f26-366e-7b71-9fb1-d362dbb27744/exec-245c0644-e6f8-4194-86dd-ca9e04c61727.png",
+      "prompt": "Cozy farm-pantry puzzle game art, clean 2D vector cartoon with soft cel shading, thick dark-brown outlines (#2A1608) like the reference capybara, warm palette: straw yellow #E8C46A, wood brown #A86E40, pumpkin orange #E8983F, leaf green #6FA05A, cream #F6E7C9, deep brown #3B2314. Top-down view for tiles, no text, no watermark, centered, transparent background unless the item says \"fully filling the tile\".\nAsset: standalone wearable hat sprite, a single mandarin orange with a green leaf, balanced like a hat. Front view (not top-down), matching the attached capybara's warm hand-drawn outline and soft cel-shaded cartoon style. The reference is STYLE ONLY: draw only the accessory, no capybara, no head, no face, no wearer, no pedestal and no floor shadow. Single isolated accessory, horizontal wearing base centered underneath, fully visible, simple readable silhouette, no extra floating pieces. Composition: square transparent canvas; keep the complete accessory within the central 84% width and 64% height, with the bottom center of the hat around x50%, y78%. Real transparent alpha background, not a checkerboard illustration. No text or watermark.",
+      "reason": "Included a cloth hat/brim; prompt calls for one single mandarin orange."
+    }
+  ]
+}

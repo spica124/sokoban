@@ -1,0 +1,308 @@
+; name: 회전문
+; name_en: Turnstile
+; par: 35
+; solution: URRRULRUULLDDRDDLLULURLULUURDDURURD
+########
+#      #
+# $ $  #
+#  #.# #
+# .$.$ #
+#   .  #
+#  @   #
+########
+
+; name: 매듭
+; name_en: The Knot
+; par: 74
+; solution: URUULDURUURDLDDDRRUULRDDLLULLUDRRDRRUULUULLLLDURRRDRDRDDLLULULUDDDLLUURUUR
+ #######
+ #  .  #
+##$ # $##
+#  .$.  #
+# # $ # #
+#   .   #
+### @ ###
+  #####
+
+; name: 회랑
+; name_en: Cloister
+; par: 52
+; solution: LULRUULLDDRDRRRURLUURRDDLDLLLLDLDRRUURRULDLUUDLLUURR
+#########
+#   .   #
+# # # # #
+# $ $ $ #
+#.  @  .#
+# $ # # #
+#   .   #
+#########
+
+; name: 입구
+; name_en: The Entrance
+; par: 47
+; solution: URRUULRUULLDDDURRDDLLULLUURURDDDUULDUURRDRDLULD
+ ########
+ #      #
+ # $ $  #
+## $ $ ##
+#  ..#  #
+#  ..   #
+#   @   #
+#########
+
+; name: 십자 창고
+; name_en: Cross Depot
+; par: 69
+; solution: LULDLLUURDRRULRRRDLULLUURDLDDLLURDRDRRUUULULLDRRRDDLLLRRRUULLDURRDDLL
+  #####
+  #   ####
+###$ $   #
+#  .$.   #
+# ..$ $ ##
+#  .  @ #
+#########
+
+; name: 일렬 정렬
+; name_en: Line Them Up
+; par: 60
+; solution: URRUULUURDLLDDULLDRDRUUURRDLLDDRRDLLLLLURUUUURDDLDRURDURDURD
+ ########
+ #  #   #
+ # $  $ #
+##  $   #
+# $  $ ##
+#  .....#
+#   @   #
+#########
+
+; name: 계단 창고
+; name_en: Stepped Depot
+; par: 59
+; solution: URRUULDRDRRULDLLLLURRUUULLDDDRRULRUULLDDRDLRDRRRULLLULUURDD
+  ######
+  #    #
+###$$  #
+#   $  ###
+# ...$ $ #
+# ..     #
+#   @    #
+##########
+
+; name: 블록
+; name_en: The Block
+; par: 73
+; solution: ULLLURRDRRUULUURDULLLDDDURLUURRDRDDUUULLLDDRRDUURDLDLLLDRUUUURDDLDRUURRRD
+  ########
+  #      #
+  # $ $  #
+###$ $ $##
+#  $ ... #
+#   ...  #
+#    @   #
+##########
+
+; name: 우물
+; name_en: The Well
+; par: 86
+; solution: LULUUUURRDDLRUULLDDDURRRLUURRDDUULLLDRDLULDRRRRDRDLDLLLLLURDRRRRUUULLLLDUUURRRDLDRURDD
+ #######
+ #     #
+ # $$$ #
+## $ $ ##
+#  #.#  #
+# ..#.. #
+#   @   #
+#########
+
+; name: 다섯 줄
+; name_en: Five in a Row
+; par: 95
+; solution: UURUULDRDDLLLLLULUURRDDRDLLLUUURDRDDRRRRUULDRDLDLLUULULDRDLRRDRRUULLDLLUURDRDLURRRDLUULDLLUURDD
+ #########
+ #   #   #
+ # $ $ $ #
+##  $ $  #
+#.....   #
+#   #  @ #
+##########
+
+; name: 다리
+; name_en: The Bridge
+; par: 91
+; solution: UUUURUUULLLDDRDURLLUURRRDDDDUUUULLDURRDDDLLDURURUULLDDDRDDLRUULDDRDDLLULUURDRRUULDUUUURDDDD
+ ######
+ #    ###
+ # $$   #
+ #  $ # #
+###$  # #
+# $   # #
+#  ...  #
+# ..    #
+#   @   #
+#########
+
+; name: 감옥
+; name_en: The Prison
+; par: 112
+; solution: UULURDDDLLLUUURRDDDRRRRULLUUUDDLLURDRDRRUURUULLLRRRDDDDLLLUUDDRRUURUULLLLLRRRRRDDDDLLLUUUDLLLLDDRDRUDRRUUURRDRUU
+ ##########
+ # .  .  .#
+## ### ## #
+#  $ $ $  #
+#  #.  #  #
+#  $ . $  #
+#    @    #
+###########
+
+; name: 두 방
+; name_en: Two Rooms
+; par: 112
+; solution: URUUUUULLLDDRRLLUURRRDDDDUUUULDULLDDRDULUURRDRDDDRDDLLURUUUUULLLDDRDDUURURDDDRRDDLUDLLURDLLLURRLUUULUURDLDRRURDD
+########
+#      #
+# $$   #
+#  $ # #
+##$# # #
+#  #.. #
+#   .. #
+#  @   #
+########
+
+; name: 좁은 문
+; name_en: Narrow Door
+; par: 91
+; solution: LULLUURRRRLLLLUURRDULLDDDRDDRRRUURULURDDDDLLLULUURRRURDDLDRDLLLUULURRRURDLDRULLLUULDLDRRRRR
+##########
+#   #    #
+# $$#  . #
+#  $   . #
+# $ #  . #
+#   #  . #
+#   @    #
+##########
+
+; name: 미궁
+; name_en: Labyrinth
+; par: 163
+; solution: RULDLLULUUURRLLUURRRDDDULLLDDDDRRRURURRUULUURDDDDRDLDLLLLLULUUUUURDLDDDDDRRRULDLLUUUUUURRRDDDDUULLULDDURRRDDLDRDLLLURDRRUUUULLLDDLDRDRRRUULLRRUULLLDDUUUURRDLDRURDD
+ ##########
+ #    #   #
+ # $$ # $ #
+ #  $ #   #
+## ## ## ##
+#  $ .    #
+# ...$..  #
+#    @    #
+###########
+
+; name: 모래시계
+; name_en: Hourglass
+; par: 99
+; solution: LUUULLDDRDRRRUUURRDLDLDLLLULUURDDDDDUURRRURDDDLDRUUULLLLUURDLDRRRURDDULLLDDDLUUURRRURUULDDRDLLLULDD
+#########
+#   #   #
+# $ # $ #
+# $ # $ #
+##  @  ##
+#   #   #
+# . # . #
+#.  #  .#
+#########
+
+; name: 대칭 창고
+; name_en: Mirror Depot
+; par: 164
+; solution: URRRRRUULDLDLLLLLUURUULDDLLDDRRRRRURUUUURRDDLLDDDLLLLLLUUUUURDDLDDDRRRRRURUUUURDRDLULDDDRRRDLULLLDLLLLLUUURRDDUULLDRURDLLDDRRRRLLLLUURDLDRRRLLUURDLDRDRRRRRRUURUULDD
+############
+#    #     #
+# $  #  $  #
+#  $ #   $ #
+#    ## #  #
+# $ ##   $ #
+#   ...... #
+#    @     #
+############
+
+; name: 나선
+; name_en: Spiral
+; par: 91
+; solution: RRULUUURULLDRDDRUUDDDDLLLLUURRLLDDRRRUUURULLRDDDDLLULURRLDDRRUUURULDDDDLULURDRUURURULLRDDLU
+ #########
+ #       #
+ # ##### #
+ # #...  #
+ # #..   #
+ # ### $ #
+ #  $ $  #
+ #  $ $  #
+ #   @   #
+ #########
+
+; name: 블록 B
+; name_en: The Block B
+; par: 114
+; solution: UURURURUULDLULDULLDDDUUURRDRDDDRDLULLULDLDRUUUUURRDLDDLDRUURURDUULLLDDDURRRDDRDDLLLLULURUUURRRRDDULLLDLDDDRRRRURUL
+ #########
+ #       #
+ # $$ $$ #
+ #  $ $  #
+ ##  #  ##
+ #  ...  #
+ #  ...  #
+ #   @   #
+ #########
+
+; name: 여섯 상자
+; name_en: Six Crates
+; par: 137
+; solution: UUUUULLLLDDLRUULLDDUURRRRDLULLLDDDUUURRRRRRDLULLLLDDDLDLDRRLUURDUUUURRDLULDDDLDRUUUURRRRDDDUUULLDRURDLDLLULDDUURRRRRDDLDRDLLURURUULDDRDLL
+ ##########
+ #        #
+ # $ $ $  #
+## $ $ $ ##
+#   ###   #
+#  ...    #
+#  ...  @ #
+###########
+
+; name: 두 겹
+; name_en: Two Layers
+; par: 179
+; solution: UUURURLULLLRUULLDDDURRRRUURRDDDLLULLLDURRRURURDLLDLLUULDDLDDDUUURRDLULDLDDDRRRLLULUURDDUURRDLULLDDDRRLULUURDDLDRUURRRRURRDULLUURRDULLDDDRRDULULUURRDDDRDDLLRRUULDRDLUUUUULDDLDRURDD
+ #########
+ #   #   #
+ # $ # $ #
+## $   $ ##
+#  $ # $  #
+#         #
+#  ## ##  #
+#  ...... #
+#    @    #
+###########
+
+; name: 이중 벽
+; name_en: Double Wall
+; par: 182
+; solution: ULLLUUULUURDDDRRULDLLDDRRRRRRRUUURUULDDDLLUURURDRDDDDLLLLLLLLUUUUURRDDULLDDRDULUURDDLDDRRRDRULLLLUURDLDRUUURRDLULDLDDRRLLUURDLDRDRRRURRRRUULDURUULDDRDDLLLRRRUULDRDLLRUUUULDLDRURDDRDL
+###########
+#    #    #
+# $$ # $$ #
+#  $ # $  #
+#    #    #
+#  ##.##  #
+#  .....  #
+#    @    #
+###########
+
+; name: 긴 창고
+; name_en: Long Depot
+; par: 411
+; solution: ULURDLLLURURRLUULDLDRRLDDRRURDLLLURDRRURDLLLURDRRURRLLDLLURRUULDUULLDDRRUULDLDRDDDRRRRRRRUUULLLDRURRDDDLLLLLUURLDDRRRRRUUULLDRURRDDDLLLLLLUURRLLDLLURRLLUURDLDDDRRRRRRRUUURULDLLLDRURRDDDLLLLLUURLDDRRRRRUUULLDRURRDDDLLLLLLUURRLLDLLURRDDRRRRRUUULLLDRURRDDDLLLLLUURLDDRRRRRUUULLDRURRDDDLLLLLLUURRLLLUURDLDRDDRRRRRUURULRUULLLDDLDRUUURRRDDDDDLLLLLLUURLDDRRRRRUUURUULLLDDDRLUUURRRDDDDDLLLLLLUURRLLDDRRRRRUUDDLLLLLUURRR
+##############
+#      #     #
+# $ $  #  .. #
+#  $   #  .. #
+# $ $     .  #
+#      ####  #
+#   @        #
+##############

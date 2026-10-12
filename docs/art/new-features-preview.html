@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>카피바라 창고 · 새 기능 에셋 19종</title>
+<style>
+:root{color-scheme:light;--ink:#3b2314;--muted:#7a6047;--cream:#faf4e7;--line:#dbc8a8;--card:#fffaf0;--accent:#9a5126;--sample:#f2e5ca;--hat-top:-7.66125%;--hat-left:27%;--hat-width:46%}
+*{box-sizing:border-box}body{margin:0;color:var(--ink);background:var(--cream);font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;line-height:1.55}
+header,main,footer{max-width:1440px;margin:auto;padding:32px 28px}header{padding-bottom:20px}.eyebrow{font-size:12px;font-weight:800;letter-spacing:.15em;color:var(--accent)}h1{font-size:clamp(26px,4vw,42px);line-height:1.2;margin:10px 0 12px}p{margin:0;color:var(--muted)}.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.pill{border:1px solid var(--line);padding:5px 11px;border-radius:99px;font-size:13px;background:#fff9ec}
+.toolbar{position:sticky;top:0;z-index:5;background:#faf4e7f5;border-block:1px solid var(--line);backdrop-filter:blur(12px)}
+.toolbar-inner{max-width:1440px;margin:auto;padding:12px 28px;display:flex;align-items:center;flex-wrap:wrap;gap:10px 24px}
+nav{display:flex;gap:16px;margin-right:auto}a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:4px}nav a{font-weight:700;font-size:14px}
+.options{display:flex;align-items:center;flex-wrap:wrap;gap:16px;font-size:14px}select{font:inherit;color:var(--ink);border:1px solid #bda782;border-radius:8px;background:var(--card);padding:7px 10px;margin-left:5px}input{accent-color:var(--accent)}button,a,select,input{outline-offset:4px}
+section{scroll-margin-top:88px;margin-bottom:48px}.section-head{display:flex;align-items:baseline;gap:12px;margin-bottom:18px}.section-head h2{margin:0;font-size:24px}.section-head span{color:var(--muted);font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(265px,1fr));gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden}
+.card-body{padding:16px 18px 18px}.card h3{margin:0 0 4px;font-size:18px}.file{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere;color:var(--muted)}.note{font-size:13px;margin-top:8px}
+.sample{background-color:var(--sample);position:relative;isolation:isolate}
+body[data-bg="checker"] .sample{background-color:#f4ede0;background-image:linear-gradient(45deg,#dfd2bd 25%,transparent 25%),linear-gradient(-45deg,#dfd2bd 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#dfd2bd 75%),linear-gradient(-45deg,transparent 75%,#dfd2bd 75%);background-size:20px 20px;background-position:0 0,0 10px,10px -10px,-10px 0}
+body[data-bg="dark"] .sample{background:#302217}body[data-bg="cream"] .sample{background:#f2e5ca}
+body[data-shadow="true"] .art{filter:drop-shadow(0 4px 4px #2a160838)}
+.worn{height:310px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:8px}
+.capy-frame{width:240px;height:240px;position:relative;flex:none}.capy{width:100%;height:100%;display:block}.hat{position:absolute;left:var(--hat-left);top:var(--hat-top);width:var(--hat-width);height:auto}
+.standalone{border-top:1px solid var(--line);padding:12px;display:flex;align-items:center;justify-content:space-around;gap:12px;min-height:122px}.standalone img{width:100px;height:100px;object-fit:contain}.standalone span{max-width:130px;color:var(--muted);font-size:12px}
+.icons{grid-template-columns:repeat(auto-fit,minmax(215px,1fr))}.icon-stage{height:186px;display:flex;align-items:center;justify-content:center;gap:24px}.icon-stage img{width:128px;height:128px;object-fit:contain}.icon-stage .mini{width:32px;height:32px}.scale-label{font-size:11px;color:var(--muted);text-align:center;margin-top:2px}
+.tile-stage{padding:18px;display:flex;justify-content:center}.tile-frame{width:216px;height:216px;position:relative;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px #2a16081a}.floor,.tile-art{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}.tile-cutout img{width:100px;height:100px}
+.legend{font-size:13px;color:var(--muted);margin-top:16px;padding:14px 16px;background:#ecdfc5;border-radius:12px}.error{color:#9b301d;font-size:12px;font-weight:700}.missing{outline:2px solid #bb4424}.status{font-weight:600}
+details{border:1px solid var(--line);border-radius:12px;padding:12px 16px;color:var(--muted);font-size:13px}summary{cursor:pointer;color:var(--ink);font-weight:700}code{font-family:ui-monospace,Consolas,monospace}footer{font-size:13px;padding-top:0}
+@media(max-width:620px){header,main,footer{padding-inline:18px}.toolbar-inner{padding-inline:18px;gap:10px}nav{width:100%}.grid{grid-template-columns:1fr}.icons{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.icon-stage{height:150px;gap:8px}.icon-stage img{width:96px;height:96px}.icon-stage .mini{width:24px;height:24px}.card-body{padding:12px}.section-head{display:block}.section-head span{display:block;margin-top:4px}section{scroll-margin-top:130px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+</head>
+<body data-bg="checker" data-shadow="false">
+<header>
+<div class="eyebrow">CAPYBARA PANTRY · ASSET REVIEW</div>
+<h1>카피바라의 새 모자와 퍼즐 그림</h1>
+<p>모자 8개 · 보드 그림 4개 · 규칙과 메뉴 아이콘 7개. 원본 PNG와 적용 모습을 함께 확인합니다.</p>
+<div class="meta"><span class="pill">2026.10.06</span><span class="pill">투명 PNG · 256 / 128px</span><span class="pill status" id="load-status">그림 불러오는 중…</span><a class="pill" href="new-features-manifest.json">검증 기록 JSON</a></div>
+</header>
+<div class="toolbar"><div class="toolbar-inner">
+<nav aria-label="에셋 종류"><a href="#hats">모자 8개</a><a href="#tiles">보드 4개</a><a href="#icons">아이콘 7개</a></nav>
+<div class="options">
+<label for="background">투명 배경<select id="background"><option value="checker">체커</option><option value="cream">크림</option><option value="dark">진갈색</option></select></label>
+<label><input id="shadow" type="checkbox"> 보조 그림자</label>
+</div>
+</div></div>
+<main>
+<section id="hats"><div class="section-head"><h2>모자</h2><span>착용 모습 + 단독 PNG · 256×256</span></div><div class="grid" id="hat-grid"></div>
+<div class="legend">착용 미리보기는 게임의 꾸미기 화면(<code>Wardrobe._preview</code>)과 같은 크기 비율과 기준점으로 합성합니다. 캐릭터는 <code>player_down.png</code>입니다.</div></section>
+<section id="tiles"><div class="section-head"><h2>보드 그림</h2><span>나무 바닥 위 + 단독 PNG · 256×256</span></div><div class="grid" id="tile-grid"></div>
+<div class="legend">얼음 중앙에도 실제 반투명 알파가 있어 아래의 나무 무늬가 비칩니다. 위쪽 화살표는 게임에서 회전해 사용합니다.</div></section>
+<section id="icons"><div class="section-head"><h2>규칙과 메뉴 아이콘</h2><span>원본 크기 + 작은 크기 비교 · 128×128</span></div><div class="grid icons" id="icon-grid"></div></section>
+<details><summary>합성 기준과 확인 방법</summary><p style="margin-top:10px">모자 PNG의 하단 기준은 y=200입니다. 캐릭터 기준 모자 폭은 46%, 왼쪽 위치는 27%, 위쪽 위치는 −7.66125%로 설정했습니다. 이는 꾸미기 화면의 <code>HAT_ANCHOR_DOWN=(0,-66)</code>, <code>hw=PREVIEW×0.46</code>, <code>centre=PREVIEW/2−66×PREVIEW/256−hw×0.28+PREVIEW×0.04</code>를 그대로 환산한 값입니다.</p><p style="margin-top:8px">보조 그림자는 형태 확인용 CSS 효과이며 원본 PNG를 변경하지 않습니다. 각 파일명을 클릭하면 원본을 열 수 있습니다. 검사는 <code>powershell.exe -NoProfile -File tools/check_new_features_art.ps1</code>로 다시 실행할 수 있습니다.</p></details>
+</main>
+<footer>실제 게임 스크린샷이 아닌 파일 확인용 합성 미리보기입니다. <a href="new-features-manifest.json">크기·알파·정렬·SHA256 검사 결과</a></footer>
+<script>
+const base="../../assets/";
+const hats=[["hat_straw","밀짚모자"],["hat_mandarin","머리 위 귤"],["hat_flower","꽃 화관"],["hat_leaf","나뭇잎 모자"],["hat_chef","요리사 모자"],["hat_beanie","빨간 털모자"],["hat_grad","학사모"],["hat_crown","황금 왕관"]];
+const tiles=[["box_c1","초록 단호박","짝 맞추기 규칙의 두 번째 먹이"],["box_on_goal_c1","자리에 놓인 단호박","같은 호박에 은은한 빛과 작은 반짝임"],["ice","얼음 칸","나무 바닥이 비치는 반투명 표면"],["oneway","한 방향 칸","바닥에 칠한 크림색 위쪽 화살표"]];
+const icons=[["rule_color","짝 맞추기"],["rule_ice","얼음"],["rule_oneway","한 방향"],["rule_mix","섞어서"],["daily","오늘의 퍼즐"],["trophy","업적"],["hanger","꾸미기"]];
+function fileLink(folder,id){return '<a class="file" href="'+base+folder+'/'+id+'.png" target="_blank" rel="noopener">'+folder+'/'+id+'.png ↗</a>'}
+document.getElementById("hat-grid").innerHTML=hats.map(([id,title])=>'<article class="card"><div class="sample worn"><div class="capy-frame"><img class="capy" src="'+base+'sprites/player_down.png" alt=""><img class="hat art asset" data-asset="'+id+'" src="'+base+'sprites/'+id+'.png" alt="'+title+'를 쓴 카피바라"></div></div><div class="sample standalone"><img class="art" src="'+base+'sprites/'+id+'.png" alt="'+title+' 단독 PNG"><span>단독 그림<br>256px 원본을 100px로 표시</span></div><div class="card-body"><h3>'+title+'</h3>'+fileLink("sprites",id)+'</div></article>').join("");
+document.getElementById("tile-grid").innerHTML=tiles.map(([id,title,note])=>'<article class="card"><div class="sample tile-stage"><div class="tile-frame"><img class="floor" src="'+base+'sprites/floor.png" alt="나무 바닥"><img class="tile-art art asset" data-asset="'+id+'" src="'+base+'sprites/'+id+'.png" alt="'+title+' 적용 모습"></div></div><div class="sample standalone tile-cutout"><img class="art" src="'+base+'sprites/'+id+'.png" alt="'+title+' 단독 PNG"><span>단독 그림<br>투명 배경 확인</span></div><div class="card-body"><h3>'+title+'</h3>'+fileLink("sprites",id)+'<p class="note">'+note+'</p></div></article>').join("");
+document.getElementById("icon-grid").innerHTML=icons.map(([id,title])=>'<article class="card"><div class="sample icon-stage"><div><img class="art asset" data-asset="'+id+'" src="'+base+'ui/'+id+'.png" alt="'+title+' 아이콘"></div><div><img class="art mini" src="'+base+'ui/'+id+'.png" alt=""><div class="scale-label">작게</div></div></div><div class="card-body"><h3>'+title+'</h3>'+fileLink("ui",id)+'</div></article>').join("");
+document.getElementById("background").addEventListener("change",e=>document.body.dataset.bg=e.target.value);
+document.getElementById("shadow").addEventListener("change",e=>document.body.dataset.shadow=String(e.target.checked));
+const images=Array.from(document.querySelectorAll("img.asset"));
+function updateStatus(){const loaded=images.filter(i=>i.complete&&i.naturalWidth>0).length;const failed=images.filter(i=>i.complete&&i.naturalWidth===0);const status=document.getElementById("load-status");status.textContent=failed.length?'파일 확인 필요 · '+failed.length+'개':loaded===19?'19개 모두 불러옴':loaded+' / 19 불러옴';status.classList.toggle("error",failed.length>0);failed.forEach(i=>i.classList.add("missing"))}
+images.forEach(i=>{i.addEventListener("load",updateStatus);i.addEventListener("error",updateStatus)});updateStatus();
+</script>
+</body>
+</html>
+

@@ -1,0 +1,445 @@
+; name: 짝 맞추기
+; name_en: Matching Pairs
+; rules: color
+; boxcolor: 5,2,1
+; goalcolor: 4,3,1
+; par: 20
+; solution: URRRDRDLUULLLDDRULUR
+#########
+#   .   #
+# @$ $  #
+#   .   #
+#########
+
+; rules: color
+; boxcolor: 1,2,1;5,3,1
+; goalcolor: 1,4,1;5,2,1
+; par: 55
+; solution: LLLLDLDLLURUULDRRLDDRURUDLLULDRRRURRDLLULLDDRULURRLLULD
+##########
+#  #.#####
+#$   . $@#
+#.$  $ ###
+#.  ######
+##########
+
+; rules: color
+; boxcolor: 3,6,1;3,7,1
+; goalcolor: 5,6,1;7,4,1
+; par: 65
+; solution: RRLUURRLLDDRURURRDRULLLDRDLUURRRDLULLDDRULURDLLLURDRRRRUUDDLLLLUR
+#########
+######  #
+######  #
+####### #
+###### .#
+####### #
+#  $ .. #
+## $$   #
+#@$.  ###
+#########
+
+; rules: color
+; boxcolor: 2,4,1;5,3,1
+; goalcolor: 3,2,1;6,4,1
+; par: 56
+; solution: URRDRRUDLLULLDRURRDRRUULRDDLLULLDRURRULDRDRRRUULLLDLLDRR
+##########
+######## #
+## ..  $ #
+# $  $.# #
+#@$   .  #
+##########
+
+; rules: color
+; boxcolor: 2,5,1;4,5,1
+; goalcolor: 1,6,1;4,3,1
+; par: 84
+; solution: LUUDDDLLULUURDLDDRRRUULRDDLUDLLURLUURDLDDRRRUULRDDLUDLLURLUURDLDDRRRUULLULDRRRDDLLUU
+#######
+#  ####
+#  ####
+# ##.##
+# .# ##
+# $$$##
+#. .$@#
+#    ##
+#######
+
+; rules: color
+; boxcolor: 2,5,1;3,2,1
+; goalcolor: 1,1,1;3,7,1
+; par: 89
+; solution: ULLLLLLDDDDDRRRUUUUDDDDLLLUUUUURRRRLLLLDDDRDLDRURDURUULUDRDDLLULUURLDDDRRRUUUULLRRDDLURUL
+#########
+#..   . #
+# $$ # @#
+# #   ###
+#  #  ###
+# $ $####
+#    ####
+## .#####
+#########
+
+; rules: color
+; boxcolor: 3,3,1;6,5,1
+; goalcolor: 6,3,1;7,4,1
+; par: 64
+; solution: DRURRDRDRRDDLLUURUURDDUULLLDRDDDRULUUURRDDLDLURRUULDULLDRULLLDRR
+##########
+#### ## ##
+# @      #
+## $  ..$#
+###### . #
+#  ###$$.#
+#        #
+##########
+
+; rules: color
+; boxcolor: 2,5,1;3,7,1
+; goalcolor: 2,6,1;4,4,1
+; par: 57
+; solution: DRRDDLLDDRUDRRUUUULLLDDRDDRRULDLURRUUULLLDDDUURRLLDDRRURU
+######
+### ##
+### ##
+#@# ##
+#$  .#
+# $. #
+# .  #
+# $$ #
+#.   #
+######
+
+; rules: color
+; boxcolor: 2,4,1;7,6,1
+; goalcolor: 1,6,1;7,5,1
+; par: 93
+; solution: LLDDLLLUULLUURDLDDDRRRRRUURUUDDLDDLLLULLUURDRDLDRRRRRULULLLDLULUURDDRDDLLUDRRUULDLDRUUULDRDDR
+##########
+# ########
+# #### .##
+#  ####  #
+# $####$##
+#    $ .@#
+#.  ## $##
+#   .   ##
+##########
+
+; rules: color
+; boxcolor: 3,4,1;3,7,1
+; goalcolor: 2,7,1;4,5,1
+; par: 69
+; solution: LUULDRDDLUUDLLURUDDRRUULDLLURLUURDDDRRULDLUDRRDDLURUULLLUURDLDDDRRDRU
+#######
+# #####
+#  ####
+#  ####
+# .$ ##
+# $..##
+#   $@#
+# .$ ##
+#######
+
+; rules: color
+; boxcolor: 2,3,1;6,5,1
+; goalcolor: 2,5,1;6,4,1
+; par: 55
+; solution: RRURRRRDLLULLDLLURRRRDRRUULDLDLLURRRRDLULLLLLUURDLDRRRR
+##########
+## #######
+#   ######
+# $.##  ##
+# $$  . ##
+#@.  .$  #
+##########
+
+; rules: color
+; boxcolor: 6,3,1;7,5,1
+; goalcolor: 3,2,1;7,6,1
+; par: 88
+; solution: LUUURRRDLULLDDDRRDULLUUURRDLLDDRULURULLLDRULLLDRRURRRDDLURULLLDRLLLURDRRURRDDLURURRDLLLL
+##########
+#  . .   #
+# $.   $ #
+##### $###
+####  @  #
+##### #$##
+#######.##
+##########
+
+; rules: color
+; boxcolor: 3,2,1;7,4,1
+; goalcolor: 2,1,1;7,5,1
+; par: 85
+; solution: ULLLDLLUUUDDLUDDRRRURURRUULDLDDLDLLUULUUULURDDDDDDRRRURUURUULLLLRRRRDDLDDLDLLUUUULURR
+##########
+# ..     #
+#  $ .   #
+##  ###  #
+## $## $ #
+##$  # . #
+##  #    #
+##    # @#
+### ######
+##########
+
+; rules: color
+; boxcolor: 1,7,1;4,3,1
+; goalcolor: 1,4,1;2,3,1
+; par: 96
+; solution: RUULUUUURRRRDLULLDDLDDRDDLURUUULUURRRDDLRUULDULLDRRLLDDRULURURRRDDLLRRUULLLDLDDRUDDDLUURURRRUULD
+########
+# ######
+#     ##
+# ..$  #
+#. $. ##
+#  #####
+#   ####
+#$$#####
+#@ #####
+########
+
+; rules: color
+; boxcolor: 3,3,1;4,2,1
+; goalcolor: 2,5,1;5,2,1
+; par: 90
+; solution: LDLLLULLDDDRRUDLLURLUURDDDUUURRDLULLDDDRRULLUURDLDRUURRDLULDRRRRULLDLLLDDRRUDLLUURRDDLURUR
+#########
+#  .  $@#
+# . $. ##
+# $$#####
+#   #####
+# .######
+# # #####
+#   #####
+#     ###
+#########
+
+; rules: color
+; boxcolor: 6,2,1;7,7,1
+; goalcolor: 6,8,1;7,6,1
+; par: 79
+; solution: RDLDDRDRDRDDLLLUURRLLDDRRRUULULULUURDDDRDRDDLLLUURLDDRUUDDRRULDLLUURUUDDDUUULUR
+##########
+#####@  ##
+##### $ ##
+#####  .##
+#####  ###
+######  .#
+##### $. #
+##### $$ #
+#     .  #
+##########
+
+; rules: color
+; boxcolor: 2,2,1;3,2,1
+; goalcolor: 1,5,1;5,2,1
+; par: 77
+; solution: DLLDLLLDDRUDDDLDRRLUUUULUUURRDLULDDDRULUURRDRDLUULLDRRRLLLDDRULURURRDRULLLDRR
+#########
+#     @ #
+# $$ .. #
+#    ####
+# $######
+#. ######
+##$######
+#  #  ###
+#   .####
+#########
+
+; rules: color
+; boxcolor: 6,2,1;7,3,1
+; goalcolor: 1,5,1;6,4,1
+; par: 59
+; solution: URDLDDDLLLURLURDDRRUUURRDULDDURRDDLLLLLLUURRDURRURRDDLRUULD
+##########
+#####  ###
+#####@$  #
+## $   $ #
+## $  .. #
+#.  .    #
+##########
+
+; rules: color
+; boxcolor: 2,5,1;5,6,1
+; goalcolor: 1,4,1;2,4,1
+; par: 99
+; solution: DDDDDDLRUULLDLLLUURDLDDRRURURRDDLULULDDLLURDRULLUURDLDDRRURULDRRRULDLLULRDRRULLDDLLURLUDRURRDLRRDLL
+########
+##### @#
+#####  #
+#####  #
+#..### #
+# $  $ #
+# .  $ #
+# .  $ #
+########
+
+; rules: color
+; boxcolor: 6,7,1;7,6,1
+; goalcolor: 5,5,1;8,3,1
+; par: 59
+; solution: DRRURRLUUURRDLULDDLDDDRRUULULDRRDRUUULDRDDLDLUUDLRRRUULLRDD
+##########
+###### ###
+###### ###
+#####   .#
+###### $ #
+#####. $ #
+###@#  $ #
+#   . $  #
+#      .##
+##########
+
+; rules: color
+; boxcolor: 5,3,1;5,5,1
+; goalcolor: 2,2,1;3,2,1
+; par: 60
+; solution: UULLLDRDDDRURULURULLDRDDLUDDLDDRUULURDRURUUULLLRRDRDDLLUURUL
+########
+###### #
+##..   #
+#  $ $ #
+## . .@#
+###  $ #
+###    #
+### $  #
+###    #
+########
+
+; rules: color
+; boxcolor: 2,4,1;3,4,1
+; goalcolor: 3,2,1;3,7,1
+; par: 78
+; solution: LDDDRRULDLUUUUDRUUDDLDDRRURUULULDURUULLDRDDRRDDLURULDDDLLUURLDDRRURUULDLUUDDRD
+######
+#   ##
+# .. #
+#.  ##
+# $$ #
+# @$ #
+# #  #
+# $. #
+#    #
+######
+
+; rules: color
+; boxcolor: 2,2,1;2,3,1
+; goalcolor: 2,7,1;4,2,1
+; par: 35
+; solution: LDRDDUURDDRDDLDDRURULLLDLUUURDDRUUU
+########
+# @  ###
+# $..###
+#.$  ###
+#    ###
+#  $ ###
+#     ##
+# . $  #
+#    ###
+########
+
+; rules: color
+; boxcolor: 2,2,1;2,5,1
+; goalcolor: 3,5,1;6,8,1
+; par: 65
+; solution: DDLDRURDLLDDDRRRULDLLUUURRDDDURRRRDLULLDLLLUURLDDRUUUDDDDRRRLUURD
+#########
+##@######
+# $ #####
+# . #####
+#   ##  #
+# $.##  #
+#  $    #
+#     $ #
+##   .. #
+#########
+
+; rules: color
+; boxcolor: 3,2,1;3,4,1
+; goalcolor: 1,3,1;1,5,1
+; par: 67
+; solution: DDDRUDLDDRRUULULUURRRDDLLULURRRDDLDDDLUUURRUULDRDLUULLDRDDRDLUUURRR
+##########
+#@   .   #
+#  $  .###
+#.$    ###
+#  $######
+#.$ ######
+#   ######
+##########
+
+; rules: color
+; boxcolor: 5,2,1;5,4,1
+; goalcolor: 1,2,1;2,2,1
+; par: 119
+; solution: ULRDLLLDLLUUUURRRRDLDUULLDLDDDRRURUUULLDRLLDDDRRURUUDDLLRRUURULDDDDLLLUDRRRRRUULRDDLLUURRDLUULULRDDRDDLLULLUDDRRRRUUULL
+########
+# .   ##
+#..$ $##
+# ## $ #
+#   .$@#
+#      #
+########
+
+; rules: color
+; boxcolor: 2,2,1;4,4,1
+; goalcolor: 5,5,1;7,3,1
+; par: 70
+; solution: ULLLLDULLLDRRRRURDLLLDDRDRRRUUDDLLLULUUURRRRRDLULLDDDULLLRRRRLUURRDLLL
+##########
+#        #
+# $.$   @#
+#.     .##
+##  $  $##
+#### .   #
+#######  #
+####### ##
+##########
+
+; rules: color
+; boxcolor: 2,2,1;4,6,1
+; goalcolor: 5,6,1;6,7,1
+; par: 110
+; solution: LLLLLURUDDRRULULURUULLRRDDDDDLUURUUULLDLLURDRRLLULUURDLDDRRRURDDDLDRUUULLLLUURDLDRRRULDLLUURDRRRDDDLURULDDDDRU
+##########
+#  #######
+# $# #####
+#   $ ####
+# ..  ####
+####  ####
+####$.####
+### $ .# #
+###     @#
+##########
+
+; rules: color
+; boxcolor: 4,7,1;6,7,1
+; goalcolor: 3,3,1;5,3,1
+; par: 84
+; solution: DRDDRRULDLLLUULUURDDUURRDLDLLDDRRUDLLUURDRDRRULLDLUUUUDRRDULLDDDRRRULLDLLRRUUULURDRU
+#########
+### #####
+### #####
+## .#. ##
+##     ##
+## $@$###
+##    ###
+## .$ $ #
+#.      #
+#########
+
+; rules: color
+; boxcolor: 5,2,1;7,2,1
+; goalcolor: 2,1,1;6,1,1
+; par: 142
+; solution: UULUUURRRRDLLURRRRDLULLLLLDDDRRUDLLURLUURDURRDLULLDDDRRUDLLURLUURDURRDLURRRDLULLLLDDDRRUUDDLLUUURRRRDRRULDLLULLLDDDRRUUDDLLURLURRRULLDDDRUULUR
+##########
+# .  ..  #
+##   $.$ #
+##  $#####
+##   #####
+###$######
+###@######
+##########

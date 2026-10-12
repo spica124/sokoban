@@ -1,0 +1,553 @@
+[
+  {
+    "path": "assets/sprites/floor.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 90970,
+    "sha256": "1ff3357e4ced7b6e3b15afd69aae5d404a87b9b0b54b3f5f7350ed7bb9e0a5cb"
+  },
+  {
+    "path": "assets/sprites/wall.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 93816,
+    "sha256": "9081aecd1688af1ba2c22b366ddd53c3cc2f8ed53c61eceb3592ff7e5cfcc6ac"
+  },
+  {
+    "path": "assets/sprites/goal.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 33715,
+    "sha256": "ce90536b6f4a6c29066ce293204e9a5d1f0de90aa4f6ba52f8c323d6db939cae"
+  },
+  {
+    "path": "assets/sprites/goal_tile.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 109443,
+    "sha256": "84cf6d415015910ab7a4e344cf9dfd14c51fdf40c2131fe48cf4f30a904689a8"
+  },
+  {
+    "path": "assets/sprites/box.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 83391,
+    "sha256": "031dfbe48d695a7b3a44f8dd65012e6f8c39b7b994705d113ca48dc7b2e981e5"
+  },
+  {
+    "path": "assets/sprites/box_on_goal.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 98147,
+    "sha256": "7deba5a060e69e4f5af6e06e0d2f5d292cb0057cb0c71c6c4ab292177cc183f0"
+  },
+  {
+    "path": "assets/sprites/player.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 64669,
+    "sha256": "e21c82878a869ee30718a760ebe8fc4c41635754b7eee020099b5663711d12e8"
+  },
+  {
+    "path": "assets/sprites/player_down.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 64669,
+    "sha256": "e21c82878a869ee30718a760ebe8fc4c41635754b7eee020099b5663711d12e8"
+  },
+  {
+    "path": "assets/sprites/player_up.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 51641,
+    "sha256": "d2d01d92ece2e3a765f2f64d67f9e6f49c972edebac41ca53a1b5ba464cdd1e5"
+  },
+  {
+    "path": "assets/sprites/player_left.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 54885,
+    "sha256": "e8403dedf617dcfd0b6d4b2240fcaa5aafd71f3cf04fb62233d8fe80ce007868"
+  },
+  {
+    "path": "assets/sprites/player_right.png",
+    "width": 256,
+    "height": 256,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 56315,
+    "sha256": "f61a98892cefd2b30c31b8bee156e39a8e2743e4f57f61bfe02bdeac0c2d989f"
+  },
+  {
+    "path": "assets/sprites/bg.png",
+    "width": 1920,
+    "height": 1080,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 3303077,
+    "sha256": "6fc279216c12e92db194a0d281b7f3cb3c3605aca1096b38ea4f6c06236494b5"
+  },
+  {
+    "path": "assets/sprites/logo.png",
+    "width": 1040,
+    "height": 400,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 450012,
+    "sha256": "15486dbf5e91b5facd25ca4434f5a768ddfa5a61f7c0fd20c6622e1fb326f92d"
+  },
+  {
+    "path": "assets/ui/panel.png",
+    "width": 96,
+    "height": 96,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 254,
+    "bytes": 14308,
+    "sha256": "abd8d861471ce75145626b89aa5a7d7d789516b491c7005149b182e9855d8b3f"
+  },
+  {
+    "path": "assets/ui/button.png",
+    "width": 96,
+    "height": 96,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 254,
+    "bytes": 13051,
+    "sha256": "8130282374b6ad3f411cce7da8d703fbc37c7497fd52f6e3d838b60ab4a1c8e6"
+  },
+  {
+    "path": "assets/ui/button_hover.png",
+    "width": 96,
+    "height": 96,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 254,
+    "bytes": 15240,
+    "sha256": "512c2116332845675ac4f9e535f771839cc71ea38efe944be6153adad66ca375"
+  },
+  {
+    "path": "assets/ui/button_pressed.png",
+    "width": 96,
+    "height": 96,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 254,
+    "bytes": 13997,
+    "sha256": "f997946af46a65e8b4e4ecc601d7da8fab9129a938374e7797128107358536eb"
+  },
+  {
+    "path": "assets/ui/button_disabled.png",
+    "width": 96,
+    "height": 96,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 254,
+    "bytes": 14125,
+    "sha256": "4dbb033ed9f69b25a26486847fe6389193c7ac4ba6c43e91f197a7224800fd85"
+  },
+  {
+    "path": "assets/icon.png",
+    "width": 512,
+    "height": 512,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 369911,
+    "sha256": "12ab4d0146fcf820c77d454eb1289d4f4a47609afa19f28de7e8b1ba569f9208"
+  },
+  {
+    "path": "assets/store/capsule_header.png",
+    "width": 460,
+    "height": 215,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 227391,
+    "sha256": "5aa187d9b7d1b86d9b17096bf19c28e47dba88fbd74a18696615c8f3fe49d450"
+  },
+  {
+    "path": "assets/store/capsule_small.png",
+    "width": 231,
+    "height": 87,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 33360,
+    "sha256": "01cfe5984db530c37fd98ae2856686c69f084b367ae2a705f6fa153f281699a8"
+  },
+  {
+    "path": "assets/store/capsule_main.png",
+    "width": 616,
+    "height": 353,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 549279,
+    "sha256": "39abb1363279ea7dcfa27a2427f889a0b7acd0f9db4ffce7f1583717c6f4cf50"
+  },
+  {
+    "path": "assets/store/capsule_vertical.png",
+    "width": 374,
+    "height": 448,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 387704,
+    "sha256": "a4aba8b3daa7c55e747cf3e179016dfa4e678c552a8de2b9bdd5e61e55202f1f"
+  },
+  {
+    "path": "assets/store/library_hero.png",
+    "width": 3840,
+    "height": 1240,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 9265202,
+    "sha256": "f7b18e5bd762933fb0b298f29ff4d9c0ee53f7cb2d8f7069b3a44ae416e107d6"
+  },
+  {
+    "path": "assets/store/library_logo.png",
+    "width": 1280,
+    "height": 720,
+    "expectedBackground": "alpha",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 0,
+    "maxSampleAlpha": 255,
+    "bytes": 1053292,
+    "sha256": "ffa4aa3a9e14d132c1397e193e5a2212ee2d85644ba7121754b4eec510ad8e0e"
+  },
+  {
+    "path": "assets/store/icon.png",
+    "width": 512,
+    "height": 512,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format32bppArgb",
+    "alphaChannel": true,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 369911,
+    "sha256": "12ab4d0146fcf820c77d454eb1289d4f4a47609afa19f28de7e8b1ba569f9208"
+  },
+  {
+    "path": "assets/store/screenshots/stage1.png",
+    "width": 1920,
+    "height": 1080,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format24bppRgb",
+    "alphaChannel": false,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 1737583,
+    "sha256": "ea916747ef2d3635efe0b416c10c2eae3e73d08c3f1753dae4c5f2bea7871428"
+  },
+  {
+    "path": "assets/store/screenshots/stage9.png",
+    "width": 1920,
+    "height": 1080,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format24bppRgb",
+    "alphaChannel": false,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 2113625,
+    "sha256": "91e808788602d38fa35600419b0ac325e2582a72258c7edd4c3401da675f8ab4"
+  },
+  {
+    "path": "assets/store/screenshots/stage24.png",
+    "width": 1920,
+    "height": 1080,
+    "expectedBackground": "opaque",
+    "pixelFormat": "Format24bppRgb",
+    "alphaChannel": false,
+    "cornerAlpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "alphaSampleStride": 8,
+    "minSampleAlpha": 255,
+    "maxSampleAlpha": 255,
+    "bytes": 1683276,
+    "sha256": "963090933d5f8e38241d8a2938750667138a2a33f40999296f7e173078dafa88"
+  }
+]
